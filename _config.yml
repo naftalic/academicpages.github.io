@@ -80,10 +80,9 @@ analytics:
 author:
   name             : "Naftali Cohen"
   avatar           : "profile.png"
-  bio              : "Data Scientist with Math PhD working on 
-I hold a Ph.D. in Applied Math from the Courant Institute at NYU, graduating in 2014. Currently, I work as a Data Scientist in the Intelligent Solutions group at JPMorgan Chase, focusing on Big-Data analytics, Statistical learning, and Predictive modeling"
+  bio              : "Data Scientist with Math PhD working at JPMorgan Chase on Big-Data analytics, Statistical learning, and Predictive modeling"
   location         : "New York, NY"
-  employer         : "JPMorgan Chase & Co."
+  employer         : #"JPMorgan Chase & Co."
   googlescholar    : "https://scholar.google.com/citations?user=Ykxe5ukAAAAJ&hl=en&oi=ao"
   email            : "naftalic@gmail.com"
   uri              :
@@ -93,13 +92,13 @@ I hold a Ph.D. in Applied Math from the Courant Institute at NYU, graduating in 
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "naftalic"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/naftali-cohen-6a3a39132/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
