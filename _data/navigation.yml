@@ -7,11 +7,11 @@ main:
   - title: "Blog"
     url: year-archive/
     
-  - title: "Academic Background"
-    url: cv
+  - title: "Bio"
+    url: cv/
     
   - research: "Research"
-    url: portfolio
+    url: portfolio/
      
   - title: "Publications"
     url: publications/
