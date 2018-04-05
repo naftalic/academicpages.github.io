@@ -11,9 +11,9 @@ title                    : "Naftali Cohen"
 title_separator          : "-"
 name                     : &name "Naftali Cohen"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://naftalic.github.io/ #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : naftalic/naftalic.github.io #"academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ author:
   name             : "Naftali Cohen"
   avatar           : "_DSC0090.jpg
 .png"
-  bio              : "Data Scientist with Math PhD working at JPMorgan Chase on Big-Data analytics, Statistical learning, and Predictive modeling"
+  bio              : "Data Scientist with a Math Ph.D. working at JPMorgan Chase on Big-Data analytics, Big Data, AI Strategies, Statistical learning, and Predictive Modeling."
   location         : "New York, NY"
   employer         : #"JPMorgan Chase & Co."
   googlescholar    : "https://scholar.google.com/citations?user=Ykxe5ukAAAAJ&hl=en&oi=ao"
