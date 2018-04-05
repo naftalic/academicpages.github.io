@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Naftali Cohen / Site Title"
+title                    : "Naftali Cohen"
 title_separator          : "-"
 name                     : &name "Naftali Cohen"
 description              : &description "personal description"
@@ -78,13 +78,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Naftali Cohen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "Data Scientist with Math PhD working on 
+I hold a Ph.D. in Applied Math from the Courant Institute at NYU, graduating in 2014. Currently, I work as a Data Scientist in the Intelligent Solutions group at JPMorgan Chase, focusing on Big-Data analytics, Statistical learning, and Predictive modeling"
+  location         : "New York, NY"
+  employer         : "JPMorgan Chase & Co."
+  googlescholar    : "https://scholar.google.com/citations?user=Ykxe5ukAAAAJ&hl=en&oi=ao"
+  email            : "naftalic@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,14 +98,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/naftali-cohen-6a3a39132/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
