@@ -10,7 +10,7 @@ main:
   - title: "Bio"
     url: cv/
     
-  - research: "Research"
+  - title: "Research"
     url: portfolio/
      
   - title: "Publications"
