@@ -19,10 +19,10 @@ I have vast experience in designing algorithms, performing numerical simulations
 
 Education
 ======
-* **Data Science**, Fellow at [The Data Incubator](https://www.thedataincubator.com/), New York NY, 2017
-* **Ph.D.** in Applied Mathematics, [Courant Institute of Mathematical Sciences](https://www.cims.nyu.edu/), New York University, New York NY, 2014
-* **M.Sc.** in Atmospheric Sciences, [The Hebrew University](http://new.huji.ac.il/), Jerusalem, Israel, 2008
-* **B.Sc.** in Atmospheric Sciences and Chemistry, [The Hebrew University](http://new.huji.ac.il/), Jerusalem, Israel, 2006
+* **Data Science**, Fellow at [`The Data Incubator`](https://www.thedataincubator.com/), New York NY, 2017
+* **Ph.D.** in Applied Mathematics, [`Courant Institute of Mathematical Sciences`](https://www.cims.nyu.edu/), New York University, New York NY, 2014
+* **M.Sc.** in Atmospheric Sciences, [`The Hebrew University`](http://new.huji.ac.il/), Jerusalem, Israel, 2008
+* **B.Sc.** in Atmospheric Sciences and Chemistry, [`The Hebrew University`](http://new.huji.ac.il/), Jerusalem, Israel, 2006
 
 
 Work experience
