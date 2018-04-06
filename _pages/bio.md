@@ -11,18 +11,18 @@ redirect_from:
 
 Short Bio
 ======
-I hold a Ph.D. in Applied Math from the Courant Institute at NYU, graduating in 2014. 
-Currently, I work as a Data Scientist in the Intelligent Solutions group at JPMorgan Chase, focusing on Big-Data analytics, AI strategies, Statistical learning, and Predictive Modeling. 
-Previously, I worked as a data scientist and researcher at Yale and Columbia University concentrating on the stochasticity and predictability of high-impact storms and the climate system. 
-I have vast experience in designing algorithms, performing numerical simulations and applying statistical learning to real-world data, and have published my work in more than ten peer-reviewed papers. I am also an alumnus of The Data Incubator.
+I hold a Ph.D. in Applied Math from the [Courant Institute](https://www.cims.nyu.edu/) at [New York University](https://www.nyu.edu/), graduating in 2014. 
+Currently, I work as a Data Scientist in the Intelligent Solutions group at [JPMorgan Chase](https://www.jpmorganchase.com/corporate/institute/institute-insights.htm), focusing on Big-Data analytics, AI strategies, Statistical learning, and Predictive Modeling. 
+Previously, I worked as a data scientist and researcher at [Yale](https://www.yale.edu/) and [Columbia University](https://www.columbia.edu/) concentrating on the stochasticity and predictability of high-impact storms and the climate system. 
+I have vast experience in designing algorithms, performing numerical simulations and applying statistical learning to real-world data, and have published my work in more than ten peer-reviewed papers. I am also an alumnus of [The Data Incubator](https://www.thedataincubator.com/).
 
 
 Education
 ======
-* Data Science, Fellow at The Data Incubator, New York NY, 2017
-* Ph.D. in Applied Mathematics, Courant Institute of Mathematical Sciences, New York University, New York NY, 2014
-* M.Sc. in Atmospheric Sciences, The Hebrew University, Jerusalem, Israel, 2008
-* B.Sc. in Atmospheric Sciences and Chemistry, The Hebrew University, Jerusalem, Israel, 2006
+* Data Science, Fellow at [The Data Incubator](https://www.thedataincubator.com/), New York NY, 2017
+* Ph.D. in Applied Mathematics, [Courant Institute of Mathematical Sciences](https://www.cims.nyu.edu/), New York University, New York NY, 2014
+* M.Sc. in Atmospheric Sciences, [The Hebrew University](http://new.huji.ac.il/en), Jerusalem, Israel, 2008
+* B.Sc. in Atmospheric Sciences and Chemistry, [The Hebrew University](http://new.huji.ac.il/en), Jerusalem, Israel, 2006
 
 
 Work experience
