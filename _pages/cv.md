@@ -109,25 +109,26 @@ Journal Publications
 ======
 * Naftali Y Cohen, and William R Boos, 2017: [The influence of orographic Rossby and gravity waves on rainfall](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2969), Quarterly Journal of the Royal Meteorological Society, doi: 10.1002/qj.2969  
 
-* Naftali Y Cohen, and William R Boos, 2016: Perspectives on moist baroclinic instability: implications for the growth of monsoon depressions, Journal of the Atmospheric Sciences, 73:4, 1767–1788, doi: 10.1175/JAS-D-15-0254.1 
+* Naftali Y Cohen, and William R Boos, 2016: [Perspectives on moist baroclinic instability: implications for the growth of monsoon depressions](https://journals.ametsoc.org/doi/abs/10.1175/JAS-D-15-0254.1), Journal of the Atmospheric Sciences, 73:4, 1767–1788, doi: 10.1175/JAS-D-15-0254.1 
 
-* Naftali Y Cohen, and William R Boos, 2016: Modulation of subtropical stratospheric waves by equatorial rainfall, Geophysical Research Letters, 43, 466–471, doi: 10.1002/2015GL067028 
+* Naftali Y Cohen, and William R Boos, 2016: [Modulation of subtropical stratospheric waves by equatorial rainfall](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015GL067028), Geophysical Research Letters, 43, 466–471, doi: 10.1002/2015GL067028 
 
-* Naftali Y Cohen, and William R Boos, 2014: Has the number of Indian summer monsoon depressions decreased over the last thirty years? Geophysical Research Letters, 41, 7846–7853, doi: 10.1002/2014GL061895 
+* Naftali Y Cohen, and William R Boos, 2014: [Has the number of Indian summer monsoon depressions decreased over the last thirty years?](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2014GL061895) Geophysical Research Letters, 41, 7846–7853, doi: 10.1002/2014GL061895 
 
-* Naftali Y Cohen, Edwin P Gerber and Oliver Bühler, 2014: What drives the Brewer-Dobson circulation? Journal of the Atmospheric Sciences, 71, 3837–3855, doi: 10.1175/JAS-D-14-0021.1 
+* Naftali Y Cohen, Edwin P Gerber and Oliver Bühler, 2014: [What drives the Brewer-Dobson circulation?](https://journals.ametsoc.org/doi/abs/10.1175/JAS-D-14-0021.1) Journal of the Atmospheric Sciences, 71, 3837–3855, doi: 10.1175/JAS-D-14-0021.1 
 
-* Naftali Y Cohen, Edwin P Gerber and Oliver Bühler, 2013: Compensation between Resolved and Unresolved Wave Driving in the Stratosphere: Implications for Downward Control, Journal of the Atmospheric Sciences, 70, 3780–3798, doi: 10.1175/JAS-D-12-0346.1
+* Naftali Y Cohen, Edwin P Gerber and Oliver Bühler, 2013: [Compensation between Resolved and Unresolved Wave Driving in the Stratosphere: Implications for Downward Control](https://journals.ametsoc.org/doi/abs/10.1175/JAS-D-12-0346.1), Journal of the Atmospheric Sciences, 70, 3780–3798, doi: 10.1175/JAS-D-12-0346.1
 
-* Alexander P. Khain, Naftali Y Cohen, Barry Lynn and Andrei Pokrovsky, 2008: Possible aerosol effects on lightning activity and structure of hurricanes, Journal of the Atmospheric Sciences, 65, 3652–3677, doi: 10.1175/2008JAS2678.1 
+* Alexander P. Khain, Naftali Y Cohen, Barry Lynn and Andrei Pokrovsky, 2008: [Possible aerosol effects on lightning activity and structure of hurricanes](https://journals.ametsoc.org/doi/abs/10.1175/2008JAS2678.1), Journal of the Atmospheric Sciences, 65, 3652–3677, doi: 10.1175/2008JAS2678.1 
 
 Books
 ======
-* Naftali Y Cohen, Alexander P. Khain, 2009: Effects of aerosols on lightning and intensity of landfalling hurricanes, Chapter in the book: Hurricanes and Climate Change, Elsner and Jagger, doi: 10.1007/978-0-387-09410-6_11
+* Naftali Y Cohen, Alexander P. Khain, 2009: [Effects of aerosols on lightning and intensity of landfalling hurricanes](https://link.springer.com/chapter/10.1007/978-0-387-09410-6_11), Chapter in the book: Hurricanes and Climate Change, Elsner and Jagger, doi: 10.1007/978-0-387-09410-6_11
 
 Other Publications
 ======
-* Patterns in Monsoons: Climate Change or Human Error?, Yale Scientific, (interview), 3/29/2015
+* [Patterns in Monsoons: Climate Change or Human Error?](http://www.yalescientific.org/2015/03/patterns-in-monsoons-climate-change-or-human-error/), Yale Scientific, (interview), 3/29/2015
+
 * Naftali Y Cohen, 2014: What drives the Brewer-Dobson Circulation? Wave mean-flow theories, interactions between resolved and unresolved waves, and the limits of downward control. Ph.D. thesis
 
 * Naftali Y Cohen, 2008: Possible aerosol effects on lightning activity and structure of hurricanes, M.Sc. thesis
