@@ -1,14 +1,14 @@
 # main links links
 main:
 
-  - title: "CV"
-    url: cv/
+  - title: "Bio"
+    url: bio/
     
   - title: "Blog"
     url: year-archive/
     
-  - title: "Bio"
-    url: cv/
+  #- title: "Bio"
+  #  url: cv/
     
   - title: "Research"
     url: portfolio/
