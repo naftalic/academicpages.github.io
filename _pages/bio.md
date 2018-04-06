@@ -12,9 +12,9 @@ redirect_from:
 Short Bio
 ======
 I hold a Ph.D. in Applied Math from the [Courant Institute](https://www.cims.nyu.edu/) at [New York University](https://www.nyu.edu/), graduating in 2014. 
-Currently, I work as a Data Scientist in the Intelligent Solutions group at [JPMorgan Chase](https://www.jpmorganchase.com/corporate/institute/institute-insights.htm), focusing on Big-Data analytics, AI strategies, Statistical learning, and Predictive Modeling. 
-Previously, I worked as a data scientist and researcher at [Yale](https://www.yale.edu/) and [Columbia University](https://www.columbia.edu/) concentrating on the stochasticity and predictability of high-impact storms and the climate system. 
-I have vast experience in designing algorithms, performing numerical simulations and applying statistical learning to real-world data, and have published my work in more than ten peer-reviewed papers. I am also an alumnus of [The Data Incubator](https://www.thedataincubator.com/).
+Currently, I work as a **Data Scientist** in the Intelligent Solutions group at [JPMorgan Chase](https://www.jpmorganchase.com), focusing on Big-Data analytics, AI strategies, Statistical learning, and Predictive Modeling. 
+Previously, I worked as a **data scientist and researcher** at [Yale](https://www.yale.edu/) and [Columbia University](https://www.columbia.edu/) concentrating on the stochasticity and predictability of high-impact storms and the climate system. 
+I have vast experience in designing algorithms, performing numerical simulations and applying statistical learning to real-world data, and have published my work in **more than ten** peer-reviewed papers. I am also an alumnus of [The Data Incubator](https://www.thedataincubator.com/).
 
 
 Education
