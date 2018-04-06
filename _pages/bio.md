@@ -59,14 +59,9 @@ techniques
   
 Skills
 ======
-* 2006-2008: Teaching Assistant
-  * The Hebrew University, Israel
-  * Instructor for the following courses: Climate Change, Introduction to Climate, Environmental Remote Sensing
-
-*	Python: 
-  * Numpy, Pandas, SciPy, Scikit-learn, Beautiful Soup, Keras
+*	Python: Numpy, Pandas, SciPy, Scikit-learn, Beautiful Soup, Keras
   
-*	Advanced Machine learning:
+*	Advanced Machine learning: 
   * Regression, Classification, Clustering, Supervised and Unsupervised learning, SVM, Ensemble Methods
   
 *	Neural Network and Deep Learning:
