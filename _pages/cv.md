@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /cv/
+permalink: /bio/
 author_profile: true
 redirect_from:
   - /resume
@@ -60,7 +60,8 @@ techniques
 Skills
 ======
 *	Python
-  * Numpy, Pandas, SciPy, Scikit-learn, Beautiful Soup
+  * Numpy 
+  * Pandas, SciPy, Scikit-learn, Beautiful Soup
   
 *	Advanced Machine learning
   * Regression, Classification, Clustering, Supervised and Unsupervised learning, SVM, Ensemble Methods
