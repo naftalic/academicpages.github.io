@@ -11,10 +11,10 @@ redirect_from:
 
 Short Bio
 =====
-I hold a _Ph.D. in Applied Math_ from the [`Courant Institute`](https://www.cims.nyu.edu/ "Courant Institute") at [New York University](https://www.nyu.edu/), graduating in 2014. 
-Currently, I work as a _Data Scientist_ in the Intelligent Solutions group at [JPMorgan Chase](https://www.jpmorganchase.com), focusing on _Big-Data analytics, AI strategies, Statistical learning, and Predictive Modeling_. 
-Previously, I worked as a _Data Scientist and Researcher_ at [Yale](https://www.yale.edu/) and [Columbia University](https://www.columbia.edu/) concentrating on the stochasticity and predictability of high-impact storms and the climate system. 
-I have vast experience in designing algorithms, performing numerical simulations and applying statistical learning to real-world data, and have _published my work in more than ten peer-reviewed papers_. I am also an alumnus of [The Data Incubator](https://www.thedataincubator.com/).
+I hold a _Ph.D. in Applied Math_ from the [`Courant Institute`](https://www.cims.nyu.edu/ "Courant Institute") at [`New York University`](https://www.nyu.edu/ "New York University"), graduating in 2014. 
+Currently, I work as a _Data Scientist_ in the Intelligent Solutions group at [`JPMorgan Chase`](https://www.jpmorganchase.com "JPMorgan Chase"), focusing on _Big-Data analytics, AI strategies, Statistical learning, and Predictive Modeling_. 
+Previously, I worked as a _Data Scientist and Researcher_ at [`Yale University`](https://www.yale.edu/ "Yale University") and [`Columbia University`](https://www.columbia.edu/ "Columbia University") concentrating on the stochasticity and predictability of high-impact storms and the climate system. 
+I have vast experience in designing algorithms, performing numerical simulations and applying statistical learning to real-world data, and have _published my work in more than ten peer-reviewed papers_. I am also an alumnus of [`The Data Incubator`](https://www.thedataincubator.com/ "The Data Incubator").
 
 
 Education
