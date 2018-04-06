@@ -79,23 +79,23 @@ Skills
 
 Awards and Honors
 ======
-* SPARC Gravity Wave Symposium Award, 2016
+* SPARC Gravity Wave Symposium **Award**, 2016
 
-* SPARC-SHARP Young Scientist Award, 2016
+* SPARC-SHARP Young Scientist **Award**, 2016
 
-* IPAM-UCLA Fellowship, 2014
+* IPAM-UCLA ****Fellowship**, 2014
 
-* GSAS MacCracken Fellowship, 2009-2014
+* GSAS MacCracken **Fellowship**, 2009-2014
 
-* ICCP Fellowship, 2008
+* ICCP **Fellowship**, 2008
 
-* Excellence Fellowship, The Hebrew University, Israel, 2007-7008
+* Excellence **Fellowship**, The Hebrew University, Israel, 2007-7008
 
-* Reserve Fellowship, The Jewish Agency for Israel, 2006
+* Reserve **Fellowship**, The Jewish Agency for Israel, 2006
 
-* Dean’s list of excellences, The Hebrew University, Israel, 2004-2005
+* **Dean’s list of excellences**, The Hebrew University, Israel, 2004-2005
 
-* Fellowship, Ministry of Education, 2004
+* **Fellowship**, Ministry of Education, 2004
 
 Journal Publications
 ======
@@ -151,7 +151,7 @@ Keynote, Invited, and Conference presentations
 
 * Tropical AMS, **Puerto Rico**, April 2016: Moist baroclinic growth and the spinup of monsoon depressions
 
-* Tropical AMS, **Puerto Rico, April 2016: Spectral trend estimation using incomplete data: application to Indian monsoon depressions (poster)
+* Tropical AMS, **Puerto Rico**, April 2016: Spectral trend estimation using incomplete data: application to Indian monsoon depressions (poster)
 
 * SHARP2016, **Freie Universität Berlin, Berlin, Germany**, February 2016: Investigation of structural changes to the stratospheric circulation in future climate
 
@@ -165,11 +165,11 @@ Keynote, Invited, and Conference presentations
 
 * Tropical Extremes Workshop, **Yale University, New Haven, CT**, USA, April 2015: Has the number of Indian summer monsoon depressions decreased over the last 30 years?
 
-* Colloquium, **Stony Brook University, New York**, USA, January 2015: What drives the Brewer-Dobson Circulation?
+* Colloquium, **Stony Brook University, NY**, USA, January 2015: What drives the Brewer-Dobson Circulation?
 
-* Annual AMS, Phoenix, **Arizona**, USA, January 2015: What drives the Brewer-Dobson Circulation?
+* Annual AMS, **Phoenix, AZ**, USA, January 2015: What drives the Brewer-Dobson Circulation?
 
-* Postdoc Seminar, **Yale University, Connecticut**, USA, April 2014: What drives the Brewer-Dobson Circulation?
+* Postdoc Seminar, **Yale University, CT**, USA, April 2014: What drives the Brewer-Dobson Circulation?
 
 * International Space Science Institute, **Bern, Switzerland**, April 2014: What drives the Brewer-Dobson Circulation?
 
@@ -191,7 +191,7 @@ Keynote, Invited, and Conference presentations
 
 * GCC meeting, **Woods Hole, MA**, USA, October 2011: Stratospheric interactions between resolved and unresolved waves
 
-* AOS days, MIT, **Cambridge, MA**, USA, June 2011: A modeling framework to study interaction between resolved and parameterized waves
+* AOS days, **MIT, Cambridge, MA**, USA, June 2011: A modeling framework to study interaction between resolved and parameterized waves
 
 * AOFD AMS, **Spokane, WA**, USA, June 2011:  A modeling framework to study interaction between resolved and parameterized waves
 
@@ -207,17 +207,17 @@ Keynote, Invited, and Conference presentations
 
 Academic visits
 ======
-* DeepWave annual workshop, **Yale University, New Haven, Connecticut**, US, August 2016
+* DeepWave annual workshop, **Yale University, New Haven, CT**, US, August 2016
 
-* ONR/COLA workshop on large-scale intra-seasonal diabatic heating variability, **George Mason University, Virginia**, US, June 2016
+* ONR/COLA workshop on large-scale intra-seasonal diabatic heating variability, **George Mason University, VA**, US, June 2016
 
 * Workshop on Geophysical Turbulence, IPAM, **University of California, Los Angeles, CA**, US, October 2014
 
 * Workshop on atmospheric gravity waves in global climate prediction and weather forecasting applications, **International Space Science Institute, Bern, Switzerland**, April 2014
 
-* The Dynamical Core Model Intercomparison Project (DCMIP) and associated two-week summer school highlighting the newest modeling techniques for global climate and weather models, **NCAR, Boulder, Colorado**, US, August 2012
+* The Dynamical Core Model Intercomparison Project (DCMIP) and associated two-week summer school highlighting the newest modeling techniques for global climate and weather models, **NCAR, Boulder, CO**, US, August 2012
 
-* WRF-Var and WRF-Chem tutorials, **NCAR, Boulder, Colorado**, US, July 2008
+* WRF-Var and WRF-Chem tutorials, **NCAR, Boulder, CO**, US, July 2008
 
 Research proposals
 ======
@@ -255,9 +255,9 @@ Memberships
 
 Professional service
 ======
-* Member of the International Space Science Institute Gravity-Wave team, Switzerland
+* Member of the International Space Science Institute **gravity-wave team**, Switzerland
 
-* Journal Peer Reviewer: Journal of the Atmospheric Sciences, Journal of Climate, Climate Dynamics, Quarterly Journal of the Royal Meteorological Society, Scientific Reports, Geophysical Research Letter
+* **Journal Peer Reviewer**: Journal of the Atmospheric Sciences, Journal of Climate, Climate Dynamics, Quarterly Journal of the Royal Meteorological Society, Scientific Reports, Geophysical Research Letter
 
 Collaborators
 ======
