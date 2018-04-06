@@ -93,7 +93,7 @@ Awards and Honors
 
 * Reserve **Fellowship**, The Jewish Agency for Israel, 2006
 
-* **Dean’s list of excellences**, The Hebrew University, Israel, 2004-2005
+* **Dean’s list of excellence**, The Hebrew University, Israel, 2004-2005
 
 * **Fellowship**, Ministry of Education, 2004
 
@@ -157,9 +157,9 @@ Keynote, Invited, and Conference presentations
 
 * SEAS Colloquium in Climate Science, **Columbia University, NY**, USA, September 2015: Perspectives on moist baroclinic instability: implications for the growth of monsoon depressions
 
-* Monsoons and ITCZ Workshop, **Columbia University, NY**, USA, September 2015: Interaction between gravity wave drag over the Tibetan Plateau and Tropical convection
+* Monsoons and ITCZ Workshop, **Columbia University, NY**, USA, September 2015: Interaction between gravity wave drag over the Tibetan Plateau and Tropical Convection
 
-* AOFD AMS, **Minneapolis, MN**, USA, June 2015: Interaction between gravity wave breaking over the Tibetan Plateau and Tropical convection
+* AOFD AMS, **Minneapolis, MN**, USA, June 2015: Interaction between gravity wave breaking over the Tibetan Plateau and Tropical Convection
 
 * AOFD AMS, **Minneapolis, MN**, USA, June 2015: Mechanisms for interactions between resolved and parameterized waves in the stratosphere (poster)
 
@@ -191,9 +191,9 @@ Keynote, Invited, and Conference presentations
 
 * GCC meeting, **Woods Hole, MA**, USA, October 2011: Stratospheric interactions between resolved and unresolved waves
 
-* AOS days, **MIT, Cambridge, MA**, USA, June 2011: A modeling framework to study interaction between resolved and parameterized waves
+* AOS days, **MIT, Cambridge, MA**, USA, June 2011: A modeling framework to study the interaction between resolved and parameterized waves
 
-* AOFD AMS, **Spokane, WA**, USA, June 2011:  A modeling framework to study interaction between resolved and parameterized waves
+* AOFD AMS, **Spokane, WA**, USA, June 2011:  A modeling framework to study the interaction between resolved and parameterized waves
 
 * AOS days, **University of Maryland, MD**, USA, May 2010: On the momentum flux of internal waves for different stratified shear flows
 
