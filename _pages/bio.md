@@ -19,41 +19,41 @@ I have vast experience in designing algorithms, performing numerical simulations
 
 Education
 ======
-* **Data Science**, Fellow at [`The Data Incubator`](https://www.thedataincubator.com/), New York NY, 2017
-* **Ph.D.** in Applied Mathematics, [`Courant Institute of Mathematical Sciences`](https://www.cims.nyu.edu/), New York University, New York NY, 2014
-* **M.Sc.** in Atmospheric Sciences, [`The Hebrew University`](http://new.huji.ac.il/), Jerusalem, Israel, 2008
-* **B.Sc.** in Atmospheric Sciences and Chemistry, [`The Hebrew University`](http://new.huji.ac.il/), Jerusalem, Israel, 2006
+* **Data Science**, Fellow at [`The Data Incubator`](https://www.thedataincubator.com/ "The Data Incubator"), New York NY, 2017
+* **Ph.D.** in Applied Mathematics, [`Courant Institute of Mathematical Sciences`](https://www.cims.nyu.edu/ "Courant Institute of Mathematical Sciences"), New York University, New York NY, 2014
+* **M.Sc.** in Atmospheric Sciences, [`The Hebrew University`](http://new.huji.ac.il/ "The Hebrew University"), Jerusalem, Israel, 2008
+* **B.Sc.** in Atmospheric Sciences and Chemistry, [`The Hebrew University`](http://new.huji.ac.il/ "The Hebrew University"), Jerusalem, Israel, 2006
 
 
 Work experience
 ======
-* 2018 - present : **`Data Scientist Associate - Intelligent Solution`**
+* 2018 - present : **Data Scientist Associate - Intelligent Solution**
   * _JPMorgan Chase & Co._, New York NY
   * Big-Data analytics, AI strategies, Statistical learning, and Predictive Modeling
 
-* 2016 - 2017: **`Data and Research Scientist`**
+* 2016 - 2017: **Data and Research Scientist**
   * _Columbia University in the City of New York_, New York NY
   * Analyze chaotic and high-dimensional climatological data (10+ TB) for identification of climate-change patterns using unsupervised learning techniques including dimensional reduction, filtering, and nonparametric statistics
 
-* 2014 - 2015: **`Data and Research Scientist`**
+* 2014 - 2015: **Data and Research Scientist**
   * _Yale University_, New Haven CT
   * Classifying monsoon storms in unstructured observational data (1+ TB); developing storm-tracking algorithms for the storm’s development, risk evaluation, and prediction
   * Develop nonlinear regression algorithms for identifying and predicting trends in incomplete data using statistical inference, model selection, and bias correction methods
 
-* 2009 - 2013: **`Graduate Research Assistant`**
+* 2009 - 2013: **Graduate Research Assistant**
   * _New York University_, New York NY
   * Design and develop algorithms to structure the chaotic climate system (1+ TB data) using pattern recognition, dimensional reduction, signal detection, and bootstrap
 techniques
   
-* 2009 - 2013: **`Teaching Assistant`**
+* 2009 - 2013: **Teaching Assistant**
   * _New York University_, New York NY
   * Instructor for the following courses: Mathematical Analysis, Mathematical Methods, Ordinary Differential Equations, Calculus
 
-* 2006 - 2008: **`Teaching Assistant`**
+* 2006 - 2008: **Teaching Assistant**
   * _The Hebrew University_, Israel
   * Instructor for the following courses: Climate Change, Introduction to Climate, Environmental Remote Sensing
 
-* 2005 - 2008: **`Head Of Chemistry and Meteorology`**
+* 2005 - 2008: **Head Of Chemistry and Meteorology**
   * _The Hebrew University_, Israel
   * Chemistry and Meteorology instructor for 3rd-12th-grade students
   
