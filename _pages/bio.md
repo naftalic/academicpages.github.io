@@ -63,31 +63,30 @@ Skills
   * The Hebrew University, Israel
   * Instructor for the following courses: Climate Change, Introduction to Climate, Environmental Remote Sensing
 
-*	Python
-  * Numpy 
-  * Pandas, SciPy, Scikit-learn, Beautiful Soup
+*	Python: 
+  * Numpy, Pandas, SciPy, Scikit-learn, Beautiful Soup, Keras
   
-*	Advanced Machine learning
+*	Advanced Machine learning:
   * Regression, Classification, Clustering, Supervised and Unsupervised learning, SVM, Ensemble Methods
   
-*	Neural Network and Deep Learning
+*	Neural Network and Deep Learning:
   * Optimization, CNN, RNN, Keras
   
-*	Data Wrangling and Scraping
+*	Data Wrangling and Scraping:
   * BeautifulSoup, RegularExpression, ElementTree
   
-*	SQL
+*	SQL:
 
-*	NLP
+*	NLP:
   * Word2Vec, TF-IDF, Bag of Words, spaCy
   
-*	Visualization
+*	Visualization:
   * Matplotlib, Plotly
   
-*	Time Series
+*	Time Series:
   * Seasonal, Spectral models, ARIMA, LSTM
   
-*	Distributed computing
+*	Distributed computing:
   * MapReduce, PySpark
 
 Awards and Honors
