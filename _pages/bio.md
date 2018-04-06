@@ -28,33 +28,33 @@ Education
 Work experience
 ======
 * 2018 - present : **Data Scientist Associate - Intelligent Solution**
-  * _JPMorgan Chase & Co., New York NY
+  * JPMorgan Chase & Co., New York NY
   * Big-Data analytics, AI strategies, Statistical learning, and Predictive Modeling
 
 * 2016 - 2017: **Data and Research Scientist**
-  * _Columbia University in the City of New York, New York NY
+  * Columbia University in the City of New York, New York NY
   * Analyze chaotic and high-dimensional climatological data (10+ TB) for identification of climate-change patterns using unsupervised learning techniques including dimensional reduction, filtering, and nonparametric statistics
 
 * 2014 - 2015: **Data and Research Scientist**
-  *_Yale University, New Haven CT
+  * Yale University, New Haven CT
   * Classifying monsoon storms in unstructured observational data (1+ TB); developing storm-tracking algorithms for the storm’s development, risk evaluation, and prediction
   * Develop nonlinear regression algorithms for identifying and predicting trends in incomplete data using statistical inference, model selection, and bias correction methods
 
 * 2009 - 2013: **Graduate Research Assistant**
-  * _New York University, New York NY
+  * New York University, New York NY
   * Design and develop algorithms to structure the chaotic climate system (1+ TB data) using pattern recognition, dimensional reduction, signal detection, and bootstrap
 techniques
   
 * 2009 - 2013: **Teaching Assistant**
-  * _New York University, New York NY
+  * New York University, New York NY
   * Instructor for the following courses: Mathematical Analysis, Mathematical Methods, Ordinary Differential Equations, Calculus
 
 * 2006 - 2008: **Teaching Assistant**
-  * _The Hebrew University, Israel
+  * The Hebrew University, Israel
   * Instructor for the following courses: Climate Change, Introduction to Climate, Environmental Remote Sensing
 
 * 2005 - 2008: **Head Of Chemistry and Meteorology**
-  * _The Hebrew University, Israel
+  * The Hebrew University, Israel
   * Chemistry and Meteorology instructor for 3rd-12th-grade students
   
 Skills
@@ -99,37 +99,37 @@ Awards and Honors
 
 Journal Publications
 ======
-* Naftali Y Cohen, and William R Boos, 2017: [The influence of orographic Rossby and gravity waves on rainfall](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2969), Quarterly Journal of the Royal Meteorological Society, doi: 10.1002/qj.2969  
+* **Naftali Y Cohen**, and William R Boos, 2017: [The influence of orographic Rossby and gravity waves on rainfall](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2969), Quarterly Journal of the Royal Meteorological Society, doi: 10.1002/qj.2969  
 
-* Naftali Y Cohen, and William R Boos, 2016: [Perspectives on moist baroclinic instability: implications for the growth of monsoon depressions](https://journals.ametsoc.org/doi/abs/10.1175/JAS-D-15-0254.1), Journal of the Atmospheric Sciences, 73:4, 1767–1788, doi: 10.1175/JAS-D-15-0254.1 
+* **Naftali Y Cohen**, and William R Boos, 2016: [Perspectives on moist baroclinic instability: implications for the growth of monsoon depressions](https://journals.ametsoc.org/doi/abs/10.1175/JAS-D-15-0254.1), Journal of the Atmospheric Sciences, 73:4, 1767–1788, doi: 10.1175/JAS-D-15-0254.1 
 
-* Naftali Y Cohen, and William R Boos, 2016: [Modulation of subtropical stratospheric waves by equatorial rainfall](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015GL067028), Geophysical Research Letters, 43, 466–471, doi: 10.1002/2015GL067028 
+* **Naftali Y Cohen**, and William R Boos, 2016: [Modulation of subtropical stratospheric waves by equatorial rainfall](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015GL067028), Geophysical Research Letters, 43, 466–471, doi: 10.1002/2015GL067028 
 
-* Naftali Y Cohen, and William R Boos, 2014: [Has the number of Indian summer monsoon depressions decreased over the last thirty years?](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2014GL061895) Geophysical Research Letters, 41, 7846–7853, doi: 10.1002/2014GL061895 
+* **Naftali Y Cohen**, and William R Boos, 2014: [Has the number of Indian summer monsoon depressions decreased over the last thirty years?](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2014GL061895) Geophysical Research Letters, 41, 7846–7853, doi: 10.1002/2014GL061895 
 
-* Naftali Y Cohen, Edwin P Gerber and Oliver Bühler, 2014: [What drives the Brewer-Dobson circulation?](https://journals.ametsoc.org/doi/abs/10.1175/JAS-D-14-0021.1) Journal of the Atmospheric Sciences, 71, 3837–3855, doi: 10.1175/JAS-D-14-0021.1 
+* **Naftali Y Cohen**, Edwin P Gerber and Oliver Bühler, 2014: [What drives the Brewer-Dobson circulation?](https://journals.ametsoc.org/doi/abs/10.1175/JAS-D-14-0021.1) Journal of the Atmospheric Sciences, 71, 3837–3855, doi: 10.1175/JAS-D-14-0021.1 
 
-* Naftali Y Cohen, Edwin P Gerber and Oliver Bühler, 2013: [Compensation between Resolved and Unresolved Wave Driving in the Stratosphere: Implications for Downward Control](https://journals.ametsoc.org/doi/abs/10.1175/JAS-D-12-0346.1), Journal of the Atmospheric Sciences, 70, 3780–3798, doi: 10.1175/JAS-D-12-0346.1
+* **Naftali Y Cohen**, Edwin P Gerber and Oliver Bühler, 2013: [Compensation between Resolved and Unresolved Wave Driving in the Stratosphere: Implications for Downward Control](https://journals.ametsoc.org/doi/abs/10.1175/JAS-D-12-0346.1), Journal of the Atmospheric Sciences, 70, 3780–3798, doi: 10.1175/JAS-D-12-0346.1
 
-* Alexander P. Khain, Naftali Y Cohen, Barry Lynn and Andrei Pokrovsky, 2008: [Possible aerosol effects on lightning activity and structure of hurricanes](https://journals.ametsoc.org/doi/abs/10.1175/2008JAS2678.1), Journal of the Atmospheric Sciences, 65, 3652–3677, doi: 10.1175/2008JAS2678.1 
+* Alexander P. Khain, **Naftali Y Cohen**, Barry Lynn and Andrei Pokrovsky, 2008: [Possible aerosol effects on lightning activity and structure of hurricanes](https://journals.ametsoc.org/doi/abs/10.1175/2008JAS2678.1), Journal of the Atmospheric Sciences, 65, 3652–3677, doi: 10.1175/2008JAS2678.1 
 
 Books
 ======
-* Naftali Y Cohen, Alexander P. Khain, 2009: [Effects of aerosols on lightning and intensity of landfalling hurricanes](https://link.springer.com/chapter/10.1007/978-0-387-09410-6_11), Chapter in the book: Hurricanes and Climate Change, Elsner and Jagger, doi: 10.1007/978-0-387-09410-6_11
+* **Naftali Y Cohen**, Alexander P. Khain, 2009: [Effects of aerosols on lightning and intensity of landfalling hurricanes](https://link.springer.com/chapter/10.1007/978-0-387-09410-6_11), Chapter in the book: Hurricanes and Climate Change, Elsner and Jagger, doi: 10.1007/978-0-387-09410-6_11
 
 Other Publications
 ======
-* [Patterns in Monsoons: Climate Change or Human Error?](http://www.yalescientific.org/2015/03/patterns-in-monsoons-climate-change-or-human-error/), Yale Scientific, (interview), 3/29/2015
+* [Patterns in Monsoons: Climate Change or Human Error?](http://www.yalescientific.org/2015/03/patterns-in-monsoons-climate-change-or-human-error/), Yale Scientific, (**interview**), 3/29/2015
 
-* Naftali Y Cohen, 2014: What drives the Brewer-Dobson Circulation? Wave mean-flow theories, interactions between resolved and unresolved waves, and the limits of downward control. Ph.D. thesis
+* **Naftali Y Cohen**, 2014: What drives the Brewer-Dobson Circulation? Wave mean-flow theories, interactions between resolved and unresolved waves, and the limits of downward control. Ph.D. thesis
 
-* Naftali Y Cohen, 2008: Possible aerosol effects on lightning activity and structure of hurricanes, M.Sc. thesis
+* **Naftali Y Cohen**, 2008: Possible aerosol effects on lightning activity and structure of hurricanes, M.Sc. thesis
 
-* Khain Alexander P, Naftali Y Cohen, Nir Ben-Moshe, and Andrei Pokrovsky, 2008: Mysterious small aerosols or why lightning may take place in the eyewalls of hurricanes, Proc. The 15th International Conference on Clouds and Precipitation, Cancun, Mexico
+* Khain Alexander P, **Naftali Y Cohen**, Nir Ben-Moshe, and Andrei Pokrovsky, 2008: Mysterious small aerosols or why lightning may take place in the eyewalls of hurricanes, Proc. The 15th International Conference on Clouds and Precipitation, Cancun, Mexico
 
-* Naftali Y Cohen, and Alexander P Khain, 2008: Effects of aerosols on lightning and intensity of hurricanes, Proc. The 15th International Conference on Clouds and Precipitation, Cancun, Mexico
+* **Naftali Y Cohen**, and Alexander P Khain, 2008: Effects of aerosols on lightning and intensity of hurricanes, Proc. The 15th International Conference on Clouds and Precipitation, Cancun, Mexico
 
-* Khain, Alexander P, Naftali Y Cohen, Yaron Segal, Barry Lynn, and Daniel Rosenfeld, 2007: Effects of aerosols on lightning and structure of tropical cyclones, Proc. IUGG XXIV, Perugia, Italy, International Association of Meteorology and Atmospheric Sciences, 986
+* Khain, Alexander P, **Naftali Y Cohen**, Yaron Segal, Barry Lynn, and Daniel Rosenfeld, 2007: Effects of aerosols on lightning and structure of tropical cyclones, Proc. IUGG XXIV, Perugia, Italy, International Association of Meteorology and Atmospheric Sciences, 986
 
 Publication citations
 ======
