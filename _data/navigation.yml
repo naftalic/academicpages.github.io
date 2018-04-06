@@ -1,18 +1,18 @@
 # main links links
 main:
 
-  - title: "Bio"
-    url: bio/
-    
   - title: "Data Blog"
     url: year-archive/
-    
-  #- title: "Bio"
-  #  url: cv/
-    
+ 
   - title: "Academic Research"
     url: portfolio/
-     
+    
+  - title: "Bio"
+    url: bio/
+        
+  #- title: "Bio"
+  #  url: cv/
+
   # - title: "Publications"
   #  url: publications/
 
