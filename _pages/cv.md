@@ -28,7 +28,7 @@ Education
 Work experience
 ======
 * 2018-present : Data Scientist Associate - Intelligent Solution
-  * JPMorgan Chase & Co., New York, NY
+  * JPMorgan Chase & Co., New York NY
   * Big-Data analytics, AI strategies, Statistical learning, and Predictive Modeling
 
 * 2016-2017: Data and Research Scientist
@@ -107,7 +107,7 @@ Awards and Honors
 
 Journal Publications
 ======
-* Naftali Y Cohen, and William R Boos, 2017: The influence of orographic Rossby and gravity waves on rainfall, Quarterly Journal of the Royal Meteorological Society, doi: 10.1002/qj.2969  
+* Naftali Y Cohen, and William R Boos, 2017: [The influence of orographic Rossby and gravity waves on rainfall](onlinelibrary.wiley.com/doi/10.1002/qj.2969/abstract), Quarterly Journal of the Royal Meteorological Society, doi: 10.1002/qj.2969  
 
 * Naftali Y Cohen, and William R Boos, 2016: Perspectives on moist baroclinic instability: implications for the growth of monsoon depressions, Journal of the Atmospheric Sciences, 73:4, 1767–1788, doi: 10.1175/JAS-D-15-0254.1 
 
