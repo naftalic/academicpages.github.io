@@ -11,10 +11,10 @@ redirect_from:
 
 Short Bio
 ======
-I hold a Ph.D. in Applied Math from the [Courant Institute](https://www.cims.nyu.edu/) at [New York University](https://www.nyu.edu/), graduating in 2014. 
-Currently, I work as a **Data Scientist** in the Intelligent Solutions group at [JPMorgan Chase](https://www.jpmorganchase.com), focusing on Big-Data analytics, AI strategies, Statistical learning, and Predictive Modeling. 
-Previously, I worked as a **data scientist and researcher** at [Yale](https://www.yale.edu/) and [Columbia University](https://www.columbia.edu/) concentrating on the stochasticity and predictability of high-impact storms and the climate system. 
-I have vast experience in designing algorithms, performing numerical simulations and applying statistical learning to real-world data, and have published my work in **more than ten** peer-reviewed papers. I am also an alumnus of [The Data Incubator](https://www.thedataincubator.com/).
+I hold a _Ph.D. in Applied Math_ from the [Courant Institute](https://www.cims.nyu.edu/) at [New York University](https://www.nyu.edu/), graduating in 2014. 
+Currently, I work as a _Data Scientist_ in the Intelligent Solutions group at [JPMorgan Chase](https://www.jpmorganchase.com), focusing on _Big-Data analytics, AI strategies, Statistical learning, and Predictive Modeling_. 
+Previously, I worked as a _Data Scientist and Researcher_ at [Yale](https://www.yale.edu/) and [Columbia University](https://www.columbia.edu/) concentrating on the stochasticity and predictability of high-impact storms and the climate system. 
+I have vast experience in designing algorithms, performing numerical simulations and applying statistical learning to real-world data, and have _published my work in more than ten peer-reviewed papers_. I am also an alumnus of [The Data Incubator](https://www.thedataincubator.com/).
 
 
 Education
@@ -28,33 +28,33 @@ Education
 Work experience
 ======
 * 2018 - present : **Data Scientist Associate - Intelligent Solution**
-  * JPMorgan Chase & Co., New York NY
+  * _JPMorgan Chase & Co._, New York NY
   * Big-Data analytics, AI strategies, Statistical learning, and Predictive Modeling
 
 * 2016 - 2017: **Data and Research Scientist**
-  * Columbia University in the City of New York, New York NY
+  * _Columbia University in the City of New York_, New York NY
   * Analyze chaotic and high-dimensional climatological data (10+ TB) for identification of climate-change patterns using unsupervised learning techniques including dimensional reduction, filtering, and nonparametric statistics
 
 * 2014 - 2015: **Data and Research Scientist**
-  * Yale University, New Haven CT
+  * _Yale University_, New Haven CT
   * Classifying monsoon storms in unstructured observational data (1+ TB); developing storm-tracking algorithms for the storm’s development, risk evaluation, and prediction
   * Develop nonlinear regression algorithms for identifying and predicting trends in incomplete data using statistical inference, model selection, and bias correction methods
 
 * 2009 - 2013: **Graduate Research Assistant**
-  * New York University, New York NY
+  * _New York University_, New York NY
   * Design and develop algorithms to structure the chaotic climate system (1+ TB data) using pattern recognition, dimensional reduction, signal detection, and bootstrap
 techniques
   
 * 2009 - 2013: **Teaching Assistant**
-  * New York University, New York NY
+  * _New York University_, New York NY
   * Instructor for the following courses: Mathematical Analysis, Mathematical Methods, Ordinary Differential Equations, Calculus
 
 * 2006 - 2008: **Teaching Assistant**
-  * The Hebrew University, Israel
+  * _The Hebrew University_, Israel
   * Instructor for the following courses: Climate Change, Introduction to Climate, Environmental Remote Sensing
 
 * 2005 - 2008: **Head Of Chemistry and Meteorology**
-  * The Hebrew University, Israel
+  * _The Hebrew University_, Israel
   * Chemistry and Meteorology instructor for 3rd-12th-grade students
   
 Skills
