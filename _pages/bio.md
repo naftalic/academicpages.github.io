@@ -61,28 +61,21 @@ Skills
 ======
 *	Python: Numpy, Pandas, SciPy, Scikit-learn, Beautiful Soup, Keras
   
-*	Advanced Machine learning: 
-  * Regression, Classification, Clustering, Supervised and Unsupervised learning, SVM, Ensemble Methods
+*	Advanced Machine learning: Regression, Classification, Clustering, Supervised and Unsupervised learning, SVM, Ensemble Methods
   
-*	Neural Network and Deep Learning:
-  * Optimization, CNN, RNN, Keras
+*	Neural Network and Deep Learning: Optimization, CNN, RNN, Keras
   
-*	Data Wrangling and Scraping:
-  * BeautifulSoup, RegularExpression, ElementTree
+*	Data Wrangling and Scraping: BeautifulSoup, RegularExpression, ElementTree
   
-*	SQL:
+*	SQL: pgSQL
 
-*	NLP:
-  * Word2Vec, TF-IDF, Bag of Words, spaCy
+*	NLP: Word2Vec, TF-IDF, Bag of Words, spaCy
   
-*	Visualization:
-  * Matplotlib, Plotly
+*	Visualization: Matplotlib, Plotly
   
-*	Time Series:
-  * Seasonal, Spectral models, ARIMA, LSTM
+*	Time Series: Seasonal, Spectral models, ARIMA, LSTM
   
-*	Distributed computing:
-  * MapReduce, PySpark
+*	Distributed computing: MapReduce, PySpark
 
 Awards and Honors
 ======
