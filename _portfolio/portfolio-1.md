@@ -4,12 +4,10 @@ excerpt: "bla bla bla.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
-
 
 ## Possible aerosol effects on lightning activity and structure of hurricanes
 
-Citation: Alexander P. Khain, **Naftali Y Cohen**, Barry Lynn and Andrei Pokrovsky, 2008: Possible aerosol effects on lightning activity and structure of hurricanes, Journal of the Atmospheric Sciences, 65, 3652–3677, doi: 10.1175/2008JAS2678.1
+**Citation**: Alexander P. Khain, **Naftali Y Cohen**, Barry Lynn and Andrei Pokrovsky, 2008: Possible aerosol effects on lightning activity and structure of hurricanes, Journal of the Atmospheric Sciences, 65, 3652–3677, doi: 10.1175/2008JAS2678.1
 
 ### Abstract (and links to the papers: 1 and 2)
 
