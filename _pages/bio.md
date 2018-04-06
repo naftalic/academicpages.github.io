@@ -19,7 +19,7 @@ I have vast experience in designing algorithms, performing numerical simulations
 
 Education
 ======
-* Data Science, Fellow at [The Data Incubator](https://www.thedataincubator.com/), New York NY, 2017
+* **Data Science**, Fellow at [The Data Incubator](https://www.thedataincubator.com/), New York NY, 2017
 * **Ph.D.** in Applied Mathematics, [Courant Institute of Mathematical Sciences](https://www.cims.nyu.edu/), New York University, New York NY, 2014
 * **M.Sc.** in Atmospheric Sciences, [The Hebrew University](http://new.huji.ac.il/), Jerusalem, Israel, 2008
 * **B.Sc.** in Atmospheric Sciences and Chemistry, [The Hebrew University](http://new.huji.ac.il/), Jerusalem, Israel, 2006
@@ -59,23 +59,23 @@ techniques
   
 Skills
 ======
-*	Python: Numpy, Pandas, SciPy, Scikit-learn, Beautiful Soup, Keras
+*	**Python**: Numpy, Pandas, SciPy, Scikit-learn, Beautiful Soup, Keras
   
-*	Advanced Machine learning: Regression, Classification, Clustering, Supervised and Unsupervised learning, SVM, Ensemble Methods
+*	**Advanced Machine learning**: Regression, Classification, Clustering, Supervised and Unsupervised learning, SVM, Ensemble Methods
   
-*	Neural Network and Deep Learning: Optimization, CNN, RNN, Keras
+*	**Neural Network and Deep Learning**: Optimization, CNN, RNN, Keras
   
-*	Data Wrangling and Scraping: BeautifulSoup, RegularExpression, ElementTree
+*	**Data Wrangling and Scraping**: BeautifulSoup, RegularExpression, ElementTree
   
-*	SQL: pgSQL
+*	**SQL**: pgSQL
 
-*	NLP: Word2Vec, TF-IDF, Bag of Words, spaCy
+*	**NLP**: Word2Vec, TF-IDF, Bag of Words, spaCy
   
-*	Visualization: Matplotlib, Plotly
+*	**Visualization**: Matplotlib, Plotly
   
-*	Time Series: Seasonal, Spectral models, ARIMA, LSTM
+*	**Time Series**: Seasonal, Spectral models, ARIMA, LSTM
   
-*	Distributed computing: MapReduce, PySpark
+*	**Distributed computing**: MapReduce, PySpark
 
 Awards and Honors
 ======
@@ -137,115 +137,115 @@ Publication citations
 
 Keynote, Invited, and Conference presentations
 ====== 
-* DeepWave workshop, Yale, New Haven, CT, USA, August 2017: The impact of gravity waves on the large-scale circulation
+* DeepWave workshop, **Yale, New Haven, CT**, USA, August 2017: The impact of gravity waves on the large-scale circulation
 
-* Colloquium, Climate Change Research Center, UNSW, Sydney, Australia, May 2017: Recent developments in the study of monsoon depressions: genesis, growth, propagation, and trend
+* Colloquium, Climate Change Research Center, **UNSW, Sydney, Australia**, May 2017: Recent developments in the study of monsoon depressions: genesis, growth, propagation, and trend
 
-* Colloquium, Tel Aviv University, Tel Aviv, Israel, January 2017: Recent developments in the study of monsoon depressions: genesis, growth, propagation, and trend
+* Colloquium, **Tel Aviv University, Tel Aviv, Israel**, January 2017: Recent developments in the study of monsoon depressions: genesis, growth, propagation, and trend
 
-* Colloquium, The Hebrew University, Jerusalem, Israel, January 2017: Recent developments in the study of monsoon depressions: genesis, growth, propagation, and trend
+* Colloquium, **The Hebrew University, Jerusalem, Israel**, January 2017: Recent developments in the study of monsoon depressions: genesis, growth, propagation, and trend
 
-* Postdoc Research Symposium, Columbia University, NY, USA, October 2016: Spectral trend estimation using raw data: application for the solar activity and climatological variability over India
+* Postdoc Research Symposium, **Columbia University, NY**, USA, October 2016: Spectral trend estimation using raw data: application for the solar activity and climatological variability over India
 
-* SPARC Gravity Wave Symposium, Penn University, PA, USA, May 2016: Modulation of subtropical stratospheric gravity waves by equatorial rainfall
+* SPARC Gravity Wave Symposium, **Penn University, PA**, USA, May 2016: Modulation of subtropical stratospheric gravity waves by equatorial rainfall
 
-* Tropical AMS, Puerto Rico, April 2016: Moist baroclinic growth and the spinup of monsoon depressions
+* Tropical AMS, **Puerto Rico**, April 2016: Moist baroclinic growth and the spinup of monsoon depressions
 
-* Tropical AMS, Puerto Rico, April 2016: Spectral trend estimation using incomplete data: application to Indian monsoon depressions (poster)
+* Tropical AMS, **Puerto Rico, April 2016: Spectral trend estimation using incomplete data: application to Indian monsoon depressions (poster)
 
-* SHARP2016, Freie Universität Berlin, Berlin, Germany, February 2016: Investigation of structural changes to the stratospheric circulation in future climate
+* SHARP2016, **Freie Universität Berlin, Berlin, Germany**, February 2016: Investigation of structural changes to the stratospheric circulation in future climate
 
-* SEAS Colloquium in Climate Science, Columbia University, NY, USA, September 2015: Perspectives on moist baroclinic instability: implications for the growth of monsoon depressions
+* SEAS Colloquium in Climate Science, **Columbia University, NY**, USA, September 2015: Perspectives on moist baroclinic instability: implications for the growth of monsoon depressions
 
-* Monsoons and ITCZ Workshop, Columbia University, NY, USA, September 2015: Interaction between gravity wave drag over the Tibetan Plateau and Tropical convection
+* Monsoons and ITCZ Workshop, **Columbia University, NY**, USA, September 2015: Interaction between gravity wave drag over the Tibetan Plateau and Tropical convection
 
-* AOFD AMS, Minneapolis, MN, USA, June 2015: Interaction between gravity wave breaking over the Tibetan Plateau and Tropical convection
+* AOFD AMS, **Minneapolis, MN**, USA, June 2015: Interaction between gravity wave breaking over the Tibetan Plateau and Tropical convection
 
-* AOFD AMS, Minneapolis, MN, USA, June 2015: Mechanisms for interactions between resolved and parameterized waves in the stratosphere (poster)
+* AOFD AMS, **Minneapolis, MN**, USA, June 2015: Mechanisms for interactions between resolved and parameterized waves in the stratosphere (poster)
 
-* Tropical Extremes Workshop, Yale University, New Haven, CT, USA, April 2015: Has the number of Indian summer monsoon depressions decreased over the last 30 years?
+* Tropical Extremes Workshop, **Yale University, New Haven, CT**, USA, April 2015: Has the number of Indian summer monsoon depressions decreased over the last 30 years?
 
-* Colloquium, Stony Brook University, New York, USA, January 2015: What drives the Brewer-Dobson Circulation?
+* Colloquium, **Stony Brook University, New York**, USA, January 2015: What drives the Brewer-Dobson Circulation?
 
-* Annual AMS, Phoenix, Arizona, USA, January 2015: What drives the Brewer-Dobson Circulation?
+* Annual AMS, Phoenix, **Arizona**, USA, January 2015: What drives the Brewer-Dobson Circulation?
 
-* Postdoc Seminar, Yale University, Connecticut, USA, April 2014: What drives the Brewer-Dobson Circulation?
+* Postdoc Seminar, **Yale University, Connecticut**, USA, April 2014: What drives the Brewer-Dobson Circulation?
 
-* International Space Science Institute, Bern, Switzerland, April 2014: What drives the Brewer-Dobson Circulation?
+* International Space Science Institute, **Bern, Switzerland**, April 2014: What drives the Brewer-Dobson Circulation?
 
-* SEAS Colloquium in Climate Science, Columbia University, NY, USA, October 2013: Stratospheric interactions between resolved and unresolved waves: mechanisms, implications, and limitations of downward control
+* SEAS Colloquium in Climate Science, **Columbia University, NY**, USA, October 2013: Stratospheric interactions between resolved and unresolved waves: mechanisms, implications, and limitations of downward control
 
-* AOFD Seminar, Yale University, CT, USA, September 2013: Stratospheric interactions between resolved and unresolved waves: mechanisms, implications, and limitations of downward control
+* AOFD Seminar, **Yale University, CT**, USA, September 2013: Stratospheric interactions between resolved and unresolved waves: mechanisms, implications, and limitations of downward control
 
-* Colloquium, Tel Aviv University, Israel, August 2013: Stratospheric interactions between resolved and unresolved waves - the limits of downward control
+* Colloquium, **Tel Aviv University, Israel**, August 2013: Stratospheric interactions between resolved and unresolved waves - the limits of downward control
 
-* Middle Atmosphere AMS, Newport, RI, USA, June 2013: Constraints on the Wave Forcing in the Stratosphere: The Illusion of downward control
+* Middle Atmosphere AMS, **Newport, RI**, USA, June 2013: Constraints on the Wave Forcing in the Stratosphere: The Illusion of downward control
 
-* AOFD AMS, Newport, RI, USA, June 2013: On the evolution of the potential vorticity. A new perspective on the role of the Eliassen-Palm flux divergence and the downward control principle (poster)
+* AOFD AMS, **Newport, RI**, USA, June 2013: On the evolution of the potential vorticity. A new perspective on the role of the Eliassen-Palm flux divergence and the downward control principle (poster)
 
-* AOS days, Princeton University, NJ, USA, June 2012: Stratospheric interactions between resolved and unresolved waves
+* AOS days, **Princeton University, NJ**, USA, June 2012: Stratospheric interactions between resolved and unresolved waves
 
-* Colloquium, University of Frankfurt/Main, Frankfurt, Germany, November 2011: Stratospheric interactions between resolved and unresolved waves
+* Colloquium, **University of Frankfurt/Main, Frankfurt, Germany**, November 2011: Stratospheric interactions between resolved and unresolved waves
 
-* Colloquium, Max-Planck-Institute, Hamburg, Germany, November 2011: Stratospheric interactions between resolved and unresolved waves
+* Colloquium, **Max-Planck-Institute, Hamburg, Germany**, November 2011: Stratospheric interactions between resolved and unresolved waves
 
-* GCC meeting, Woods Hole, MA, USA, October 2011: Stratospheric interactions between resolved and unresolved waves
+* GCC meeting, **Woods Hole, MA**, USA, October 2011: Stratospheric interactions between resolved and unresolved waves
 
-* AOS days, MIT, Cambridge, MA, USA, June 2011: A modeling framework to study interaction between resolved and parameterized waves
+* AOS days, MIT, **Cambridge, MA**, USA, June 2011: A modeling framework to study interaction between resolved and parameterized waves
 
-* AOFD AMS, Spokane, WA, USA, June 2011:  A modeling framework to study interaction between resolved and parameterized waves
+* AOFD AMS, **Spokane, WA**, USA, June 2011:  A modeling framework to study interaction between resolved and parameterized waves
 
-* AOS days, University of Maryland, MD, USA, USA, May 2010: On the momentum flux of internal waves for different stratified shear flows
+* AOS days, **University of Maryland, MD**, USA, May 2010: On the momentum flux of internal waves for different stratified shear flows
 
-* cSplash, Courant Institute, NY, USA, April 2010: Sunrise, sunset, and local time calculations
+* cSplash, **Courant Institute, NY**, USA, April 2010: Sunrise, sunset, and local time calculations
 
-* ICCP-2008, Cancun, Mexico, June 2008: Effects of aerosols on lightning and intensity of hurricanes (Poster)
+* ICCP-2008, **Cancun, Mexico**, June 2008: Effects of aerosols on lightning and intensity of hurricanes (Poster)
 
-* Israeli Association for Aerosol Research meeting, Be’er-Sheba University, Israel, December 2007: Possible aerosol effects on lightning activity and structure of hurricanes
+* Israeli Association for Aerosol Research meeting, **Be’er-Sheba University, Israel**, December 2007: Possible aerosol effects on lightning activity and structure of hurricanes
 
-* Colloquium, The Hebrew University of Jerusalem, Israel, December 2007: On possible aerosol effects on lightning activity and structure of landfalling hurricanes
+* Colloquium, **The Hebrew University of Jerusalem, Israel**, December 2007: On possible aerosol effects on lightning activity and structure of landfalling hurricanes
 
 Academic visits
 ======
-* DeepWave annual workshop, Yale University, New Haven, Connecticut, US, August 2016
+* DeepWave annual workshop, **Yale University, New Haven, Connecticut**, US, August 2016
 
-* ONR/COLA workshop on large-scale intra-seasonal diabatic heating variability, George Mason University, Virginia, US, June 2016
+* ONR/COLA workshop on large-scale intra-seasonal diabatic heating variability, **George Mason University, Virginia**, US, June 2016
 
-* Workshop on Geophysical Turbulence, IPAM, University of California, Los Angeles, CA, US, October 2014
+* Workshop on Geophysical Turbulence, IPAM, **University of California, Los Angeles, CA**, US, October 2014
 
-* Workshop on atmospheric gravity waves in global climate prediction and weather forecasting applications, International Space Science Institute, Bern, Switzerland, April 2014
+* Workshop on atmospheric gravity waves in global climate prediction and weather forecasting applications, **International Space Science Institute, Bern, Switzerland**, April 2014
 
-* The Dynamical Core Model Intercomparison Project (DCMIP) and associated two-week summer school highlighting the newest modeling techniques for global climate and weather models, August 2012
+* The Dynamical Core Model Intercomparison Project (DCMIP) and associated two-week summer school highlighting the newest modeling techniques for global climate and weather models, **NCAR, Boulder, Colorado**, US, August 2012
 
-* WRF-Var and WRF-Chem tutorials, NCAR, Boulder, Colorado, US, July 2008
+* WRF-Var and WRF-Chem tutorials, **NCAR, Boulder, Colorado**, US, July 2008
 
 Research proposals
 ======
-* Co-Principal Investigator on the NSF grant AGS- 1515960, 2015-2018. Project Title: Zonal Asymmetries in the Low-Latitude Hydrological Cycle over a Broad Range of Climates, $435K
+* Co-Principal Investigator on the NSF grant AGS- 1515960, 2015-2018. Project Title: Zonal Asymmetries in the Low-Latitude Hydrological Cycle over a Broad Range of Climates, **$435K**
 
-* Co-Principal Investigator on the NSF grant AGS-1317469, 2013-2017. Project Title: Stratospheric and Tropical Influences on the Mid-Latitude Circulation Response to Rising Greenhouse Gases, $662K
+* Co-Principal Investigator on the NSF grant AGS-1317469, 2013-2017. Project Title: Stratospheric and Tropical Influences on the Mid-Latitude Circulation Response to Rising Greenhouse Gases, **$662K**
 
-* Co-Principal Investigator on the NSF grant AGS-1253222, 2013-2018. Project Title: The Influence of Desert Heat Lows on Monsoon Precipitation, $643K
+* Co-Principal Investigator on the NSF grant AGS-1253222, 2013-2018. Project Title: The Influence of Desert Heat Lows on Monsoon Precipitation, **$643K**
 
-* Co-Principal Investigator on the NSF grant AGS-1264195, 2013-2017. Project Title: Understanding the Response of the Austral Jet Stream to Changes in Greenhouse Gases and Stratospheric Ozone, $507K
+* Co-Principal Investigator on the NSF grant AGS-1264195, 2013-2017. Project Title: Understanding the Response of the Austral Jet Stream to Changes in Greenhouse Gases and Stratospheric Ozone, **$507K**
 
-* Co-Principal Investigator on the NSF grant AGS-0938325, 2013-2017. Project Title: Assessing the Impact of Parameterized Gravity Wave Drag on Climate Change Forecasts: A Systematic Investigation with Global Circulation Models, $376K
+* Co-Principal Investigator on the NSF grant AGS-0938325, 2013-2017. Project Title: Assessing the Impact of Parameterized Gravity Wave Drag on Climate Change Forecasts: A Systematic Investigation with Global Circulation Models, **$376K**
 
 Teaching experiences
 ======
-* Courant Institute, New York University, Analysis I and II, Fall 2012, Spring 2013, Fall 2013
+* Courant Institute, New York University, **Analysis I and II**, Fall 2012, Spring 2013, Fall 2013
 
-* Courant Institute, New York University, Ordinary Differential Equations, Spring 2012
+* Courant Institute, New York University, **Ordinary Differential Equations**, Spring 2012
 
-* Courant Institute, New York University, Methods of Applied Mathematics, Fall 2011
+* Courant Institute, New York University, **Methods of Applied Mathematics**, Fall 2011
 
-* Courant Institute, New York University, Calculus I, Fall 2010
+* Courant Institute, New York University, **Calculus I**, Fall 2010
 
-* The Hebrew University, Israel, Environmental Remote Sensing, Fall 2008
+* The Hebrew University, Israel, **Environmental Remote Sensing**, Fall 2008
 
-* The Hebrew University, Israel, Introduction to Climate, Climate Change, Spring 2008
+* The Hebrew University, Israel, **Introduction to Climate**, Climate Change, Spring 2008
 
-* The Community Youth of the Hebrew University, Israel, Chemistry and Meteorology for 3rd-12th-grade students, 2006-2008
+* The Community Youth of the Hebrew University, Israel, **Chemistry and Meteorology** for 3rd-12th-grade students, 2006-2008
 
 Memberships 
 ======
@@ -255,7 +255,7 @@ Memberships
 
 Professional service
 ======
-* Member of the International Space Science Institute gravity wave team, Switzerland
+* Member of the International Space Science Institute Gravity-Wave team, Switzerland
 
 * Journal Peer Reviewer: Journal of the Atmospheric Sciences, Journal of Climate, Climate Dynamics, Quarterly Journal of the Royal Meteorological Society, Scientific Reports, Geophysical Research Letter
 
