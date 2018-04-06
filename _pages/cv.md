@@ -107,7 +107,7 @@ Awards and Honors
 
 Journal Publications
 ======
-* Naftali Y Cohen, and William R Boos, 2017: [The influence of orographic Rossby and gravity waves on rainfall](onlinelibrary.wiley.com/doi/10.1002/qj.2969/abstract), Quarterly Journal of the Royal Meteorological Society, doi: 10.1002/qj.2969  
+* Naftali Y Cohen, and William R Boos, 2017: [The influence of orographic Rossby and gravity waves on rainfall](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2969), Quarterly Journal of the Royal Meteorological Society, doi: 10.1002/qj.2969  
 
 * Naftali Y Cohen, and William R Boos, 2016: Perspectives on moist baroclinic instability: implications for the growth of monsoon depressions, Journal of the Atmospheric Sciences, 73:4, 1767–1788, doi: 10.1175/JAS-D-15-0254.1 
 
