@@ -1,6 +1,6 @@
 ---
 title: "Perspectives on moist baroclinic instability: implications for the growth of monsoon depressions"
-excerpt: "<br/><img src='66.jpg'>"
+excerpt: "<br/><img src='/images/66.jpg'>"
 collection: academic_research
 ---
 
