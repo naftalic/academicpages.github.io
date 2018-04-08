@@ -5,7 +5,7 @@ main:
     url: year-archive/
  
   - title: "Academic Research"
-    url: portfolio/
+    url: academic_research/
     
   - title: "Bio"
     url: bio/
