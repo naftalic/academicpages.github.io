@@ -1,6 +1,6 @@
 ---
 title: "Compensation between Resolved and Unresolved Wave Driving in the Stratosphere: Implications for Downward Control"
-excerpt: "bla bla bla.<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/images/22.jpg'>"
 collection: portfolio
 ---
 
