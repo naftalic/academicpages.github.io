@@ -1,6 +1,6 @@
 ---
 title: "Has the number of Indian summer monsoon depressions decreased over the last thirty years?"
-excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/images/44.jpg'>"
 collection: portfolio
 ---
 
