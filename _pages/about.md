@@ -9,14 +9,12 @@ redirect_from:
 ---
 
 News!
+
 #
 
+* I maintain a Facebook group named: [`Puzzles lovers group`](https://www.facebook.com/groups/1462065760548710/?ref=bookmarks). It's in Hebrew, and you are welcome to join.
 
->> I maintain and Facebook group, [`Puzzles lovers group`](https://www.facebook.com/groups/1462065760548710/?ref=bookmarks), its in Hebrew and you are welcome do join.
+* I am a professional Rubik’s cube solver and, in my free time, I focus on developing non-memorization techniques to solve the cube. [Here](https://www.youtube.com/playlist?list=PLJyTOw7CNt_6JIielrbvACfyHGjxmcWv_) is a series on YouTube videos showing my explanation for solving the 3x3x3 cube without any algorithms or learning by heart.
 
->> I am also a proffesional Rubik's cude solver and, on my free time, focus on developing non-memorization techniques to solve the cube. [Here](https://www.youtube.com/playlist?list=PLJyTOw7CNt_6JIielrbvACfyHGjxmcWv_) is my way of solving the 3x3x3 cude without any algorithms.
 
->> lots of details about my academic research
-
->> Here you can read about me
-
+* My academic research focuses on the stochasticity and predictability of high-impact storms and the climate system. Here you can read a bit about my published work.
