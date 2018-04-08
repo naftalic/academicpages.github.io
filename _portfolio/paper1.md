@@ -1,6 +1,6 @@
 ---
 title: "Possible aerosol effects on lightning activity and structure of hurricanes"
-excerpt: "bla bla bla.<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/images/11.jpg'>"
 collection: portfolio
 ---
 
