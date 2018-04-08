@@ -1,6 +1,6 @@
 ---
 title: "What drives the Brewer-Dobson circulation?"
-excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/images/33.jpg'>"
 collection: portfolio
 ---
 
