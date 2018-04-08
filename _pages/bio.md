@@ -83,7 +83,7 @@ Awards and Honors
 
 * SPARC-SHARP Young Scientist **Award**, 2016
 
-* IPAM-UCLA ****Fellowship**, 2014
+* IPAM-UCLA **Fellowship**, 2014
 
 * GSAS MacCracken **Fellowship**, 2009-2014
 
@@ -133,7 +133,7 @@ Other Publications
 
 Publication citations
 ======
-* about 150 (based on Google Scholar metric, 2018)
+* ~150 (based on Google Scholar metric, 2018)
 
 Keynote, Invited, and Conference presentations
 ====== 
