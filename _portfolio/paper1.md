@@ -4,9 +4,6 @@ excerpt: "<br/><img src='/images/11.jpg'>"
 collection: academic_research
 ---
 
-
-## Possible aerosol effects on lightning activity and structure of hurricanes
-
 **Citation**: Alexander P. Khain, **Naftali Y Cohen**, Barry Lynn and Andrei Pokrovsky, 2008: [Possible aerosol effects on lightning activity and structure of hurricanes](https://journals.ametsoc.org/doi/abs/10.1175/2008JAS2678.1), Journal of the Atmospheric Sciences, 65, 3652–3677, doi: 10.1175/2008JAS2678.1
 
 And see also book chapter on the same topic: 
