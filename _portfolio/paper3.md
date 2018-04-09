@@ -4,9 +4,6 @@ excerpt: "<br/><img src='/images/33.jpg'>"
 collection: portfolio
 ---
 
-
-## What drives the Brewer-Dobson circulation?
-
 **Citation**: **Naftali Y Cohen**, Edwin P Gerber and Oliver Bühler, 2014: [What drives the Brewer-Dobson circulation?](https://journals.ametsoc.org/doi/abs/10.1175/JAS-D-14-0021.1) Journal of the Atmospheric Sciences, 71, 3837–3855, doi: 10.1175/JAS-D-14-0021.1
 
 ### Abstract
