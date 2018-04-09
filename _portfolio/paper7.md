@@ -4,9 +4,6 @@ excerpt: "<br/><img src='/images/77.jpg'>"
 collection: academic_research
 ---
 
-
-## The influence of orographic Rossby and gravity waves on rainfall
-
 **Citation**: **Naftali Y Cohen**, and William R Boos, 2017: [The influence of orographic Rossby and gravity waves on rainfall](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2969), Quarterly Journal of the Royal Meteorological Society, doi: 10.1002/qj.2969
 
 ### Abstract
