@@ -4,9 +4,6 @@ excerpt: "<br/><img src='/images/22.jpg'>"
 collection: portfolio
 ---
 
-
-## Compensation between Resolved and Unresolved Wave Driving in the Stratosphere: Implications for Downward Control
-
 **Citation**: **Naftali Y Cohen**, Edwin P Gerber and Oliver Bühler, 2013: [Compensation between Resolved and Unresolved Wave Driving in the Stratosphere: Implications for Downward Control](https://journals.ametsoc.org/doi/abs/10.1175/JAS-D-12-0346.1), Journal of the Atmospheric Sciences, 70, 3780–3798, doi: 10.1175/JAS-D-12-0346.1
 
 ### Abstract
