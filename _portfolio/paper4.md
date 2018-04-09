@@ -4,9 +4,6 @@ excerpt: "<br/><img src='/images/44.jpg'>"
 collection: portfolio
 ---
 
-
-## Has the number of Indian summer monsoon depressions decreased over the last thirty years?
-
 **Citation**: **Naftali Y Cohen**, and William R Boos, 2014: [Has the number of Indian summer monsoon depressions decreased over the last thirty years?](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2014GL061895) Geophysical Research Letters, 41, 7846–7853, doi: 10.1002/2014GL061895
 
 ### Abstract
