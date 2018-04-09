@@ -4,9 +4,6 @@ excerpt: "<br/><img src='/images/55.jpg'>"
 collection: academic_research
 ---
 
-
-## Modulation of subtropical stratospheric waves by equatorial rainfall
-
 **Citation**: **Naftali Y Cohen**, and William R Boos, 2016: [Modulation of subtropical stratospheric waves by equatorial rainfall](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015GL067028), Geophysical Research Letters, 43, 466–471, doi: 10.1002/2015GL067028 
 
 ### Abstract
