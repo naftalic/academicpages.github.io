@@ -8,9 +8,9 @@ author_profile: true
   - /about.html>
 ---
 
-News!
+# News!
 
-#
+## My first post on [classifing grayscale images of handwritten digits (MNIST) using Keras](https://naftalic.github.io//posts/2018/04/mnist_keras/) is out. It is only 7 min read! 
 
 * I maintain a Facebook group named: [`Puzzles lovers group`](https://www.facebook.com/groups/1462065760548710/?ref=bookmarks). It's in Hebrew, and you are welcome to join!
 
