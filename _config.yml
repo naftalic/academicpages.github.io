@@ -20,8 +20,8 @@ words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 comments                 : 
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus                 :
-    shortname            : "https://naftalic.github.io"
+  disqus:
+    shortname            : "naftalic.github.io"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
