@@ -7,6 +7,8 @@ author_profile: true
 
 # News!
 
+* A new post is on the way - [How many laters do I need?](https://naftalic.github.io//posts/2018/04/layers/)<img src='/images/output_12_0.png'><img src='/images/output_14_0.png'><img src='/images/output_17_0.png'><img src='/images/output_19_0.png'>
+
 * My first post on [classifying grayscale images of handwritten digits (MNIST) using Keras](https://naftalic.github.io//posts/2018/04/mnist_keras/) is out. It is only 7 min read! <img src='/images/output_4_0.png'><img src='/images/output_20_0.png'>
 
 * I maintain a Facebook group named: [`Puzzles lovers group`](https://www.facebook.com/groups/1462065760548710/?ref=bookmarks). It's in Hebrew, and you are welcome to join!
