@@ -81,8 +81,8 @@ author:
   name             : "Naftali Cohen"
   avatar           : "my_profile.png"
   bio              : "Data Scientist with a Math Ph.D. working at JPMorgan Chase on Big-Data analytics, AI strategies, Statistical learning, and Predictive Modeling."
-  location         : "New York, NY"
-  employer         : "JPMorgan Chase & Co."
+  location         : 
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=Ykxe5ukAAAAJ&hl=en&oi=ao"
   email            : "naftalic@gmail.com"
   uri              :
