@@ -1,0 +1,531 @@
+
+# How many layers do you need?
+
+Deep learning is booming. Now with the availability of high-level neural networks API, such as Keras, it is easy to run deep neural networks and solve complex classification problems. Still, from time to time, it is valuable to go back to simple tasks that we can fully understand and this is the aim of this publication.
+
+In this post, I would like to ask what is the minimum number of neurons and layers that are needed for the classification of simple separable features. While this is not necessarily a new problem, I will explore a few interesting aspects of this problem using Keras.
+In case you wondered, and in general, the answer is that 1-layer network can represent half-planes (i.e., the AND or OR logic), 2-layer network can classify points inside any number of arbitrary lines, and 3-layer network can classify any arbitrary shape in arbitrary dimensions. Hence, a 2-layer model can classify any convex set, while 3-layer model can classify any number of disjoint convex or concave shapes.
+
+But now please allow me to dive deeper into a few specific yet simple examples. We start by loading Keras, numpy, and matplotlib.
+
+
+```python
+from keras import models
+from keras import layers
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+np.random.seed(2018)
+```
+
+    /Users/nc374/anaconda/lib/python3.5/site-packages/h5py/__init__.py:34: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+      from ._conv import register_converters as _register_converters
+    Using TensorFlow backend.
+
+
+Classification is about describing data. In practice, the data are measurements of a sort, and we have no way of knowing how the data were generated. Imagine for the moment that the data we have is the one shown below in blue. A specific polynomial function generated the data (see python code below), but say that we don’t know that. Our goal is to estimate the data, in the best way we can, with some function. Imagine that the only tool that is available to us is a straight line (see below in black) and we are only free to optimize for the slope and intercept. In this case, there is no way that we could correctly fit or describe the data with minimum error (i.e., with zero mean-squared error). The linear function just can’t represent the undulations of the generated data.
+
+
+```python
+x=np.linspace(0,1,100)
+y = 1 + x - x**2 + 10*x**3 - 10*x**4
+fit = np.polyfit(x,y,1)
+fit_fn = np.poly1d(fit) 
+# fit_fn is now a function which takes in x and returns an estimate for y
+
+plt.figure(figsize=(20,10))
+plt.plot(x,y,'ob',linewidth=2)
+plt.plot(x, fit_fn(x),'k',linewidth=2)
+plt.title('Polynomial and linear fit',fontsize=20)
+plt.xticks(fontsize=20)
+plt.yticks(fontsize=20)
+plt.grid('on')
+plt.show()
+```
+
+
+![png](output_4_0.png)
+
+
+This post is about describing data or “overfitting.” But, here, overfitting is a good thing, and the question I pose is what is the minimal number of features a function needs to represent the variability in the data. Once, we know what kind of function we need, we can add constraints to the optimization process and make sure that we don’t represent noise or overfit in a bad sense. Other words, the delicate process of bias-variance trade-off cannot begin if we don’t have the right tool in hand (i.e., we do not know what function to use) and this is what this post is about.
+
+Next, I will ask how many neurons and how many layers does a neural network need to classify simple data sets. I will start with simple data sets were we want to classify for the AND, and OR data, and will continue to examine the come complex XOR, and finally, the two-moon classification problems, using Keras.
+
+Here are some constants I will use later to create the data sets.
+
+
+```python
+# constants
+npts = 100 # points per blob
+tot_npts = 4*npts # total number of points 
+s = 0.005 # ~standard deviation
+sigma = np.array([[s, 0], [0, s]]) #cov matrix
+```
+
+# The AND problem
+
+The AND problem is simple. As you can see below, the data is clustered around four areas: [0,0], [0,1], [1,0], and [1,1]. When we apply the AND logic function to each pair, it follows that [0,0]=0, [0,1]=0, [1,0]=0, but [1,1]=1. We label the data pair as one (blue) when both points are equal to one. Otherwise, we label the data as zero (red).
+
+
+```python
+# Generate Data
+data1 = np.random.multivariate_normal( [0,0], sigma, npts)
+data2 = np.random.multivariate_normal( [0,1], sigma, npts)
+data3 = np.random.multivariate_normal( [1,0], sigma, npts)
+data4 = np.random.multivariate_normal( [1,1], sigma, npts)
+
+and_data = np.concatenate((data1, data2, data3, data4)) # data
+and_labels = np.concatenate((np.ones((3*npts)),np.zeros((npts)))) # labels
+print(and_data.shape)
+print(and_labels.shape)
+
+plt.figure(figsize=(20,10))
+plt.scatter(and_data[:,0][and_labels==0], and_data[:,1][and_labels==0],c='b')
+plt.scatter(and_data[:,0][and_labels==1], and_data[:,1][and_labels==1],c='r')
+
+plt.plot()
+plt.title('AND problem',fontsize=20)
+plt.xticks(fontsize=20)
+plt.yticks(fontsize=20)
+plt.grid('on')
+plt.show()
+```
+
+    (400, 2)
+    (400,)
+
+
+
+![png](output_9_1.png)
+
+
+Separating the AND data is easy. A straight line can separate the data into the blues and reds. 
+
+That was easy. 
+
+Linear line is represented by Wx + b (where W is the slope, and b is the bias), and in the neural network world as np.dot(W, x) + b. Thus, one layer with one neuron (i.e., one linear line) will suffice for separating the AND data. 
+
+Below you can see my Keras implementation of a neural network with one layer, one neuron, and a sigmoid activation. As a loss function, I chose binary_crossentropy with Adam optimizer. Iterating over the data with batch_size of 16, the model converges to the right solution, measured by accuracy, after about 100 iterations over the whole data.
+
+
+```python
+model = models.Sequential()
+model.add(layers.Dense(1, activation='sigmoid', input_shape=(2,)))
+model.summary()
+model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
+
+history = model.fit(and_data, 
+                    and_labels, 
+                    epochs=200,
+                    batch_size=16,
+                    verbose=0)
+
+
+history_dict = history.history
+history_dict.keys()
+
+
+plt.figure(figsize=(20,10))
+plt.subplot(121)
+loss_values = history_dict['loss']
+#val_loss_values = history_dict['val_loss']
+epochs = range(1, len(loss_values) + 1)
+plt.plot(epochs, loss_values, 'bo', label='Training loss')
+#plt.plot(epochs, val_loss_values, 'b', label='Validation loss')
+plt.title('Training loss',fontsize=20)
+plt.xlabel('Epochs',fontsize=20)
+plt.ylabel('Loss',fontsize=20)
+plt.legend(fontsize=20)
+plt.xticks(fontsize=20)
+plt.yticks(fontsize=20)
+
+
+plt.subplot(122)
+acc_values = history_dict['acc']
+#val_acc_values = history_dict['val_acc']
+epochs = range(1, len(loss_values) + 1)
+plt.plot(epochs, acc_values, 'bo', label='Training acc')
+#plt.plot(epochs, val_acc_values, 'b', label='Validation acc')
+plt.title('Training accuracy',fontsize=20)
+plt.xlabel('Epochs',fontsize=20)
+plt.ylabel('Accuracy',fontsize=20)
+plt.legend(fontsize=20)
+plt.xticks(fontsize=20)
+plt.yticks(fontsize=20)
+plt.show()
+```
+
+    _________________________________________________________________
+    Layer (type)                 Output Shape              Param #   
+    =================================================================
+    dense_1 (Dense)              (None, 1)                 3         
+    =================================================================
+    Total params: 3
+    Trainable params: 3
+    Non-trainable params: 0
+    _________________________________________________________________
+
+
+
+![png](output_11_1.png)
+
+
+# The OR problem
+
+The OR problem is also simple. Again, the data is clustered around four areas: [0,0], [0,1], [1,0], and [1,1]. As before, we apply the OR logic function to each pair. It follows that [0,0]=0, but [0,1]=1, [1,0]=1, and [1,1]=1. We label the data pair as zero (red), only when both points are equal to zero. Otherwise, we label the data as one (blue).
+
+
+```python
+# Generate Data
+data1 = np.random.multivariate_normal( [0,0], sigma, npts)
+data2 = np.random.multivariate_normal( [0,1], sigma, npts)
+data3 = np.random.multivariate_normal( [1,0], sigma, npts)
+data4 = np.random.multivariate_normal( [1,1], sigma, npts)
+
+or_data = np.concatenate((data1, data2, data3, data4))
+or_labels = np.concatenate((np.ones((npts)),np.zeros((3*npts))))
+
+plt.figure(figsize=(20,10))
+plt.scatter(or_data[:,0][or_labels==0], or_data[:,1][or_labels==0],c='b')
+plt.scatter(or_data[:,0][or_labels==1], or_data[:,1][or_labels==1],c='r')
+plt.title('OR problem',fontsize=20)
+plt.xticks(fontsize=20)
+plt.yticks(fontsize=20)
+plt.grid('on')
+plt.show()
+```
+
+
+![png](output_14_0.png)
+
+
+Separating this data is also straightforward. As for the AND data, a straight line will suffice and as before a neural network with one layer and one neuron is the minimum model we need to separate or classify the data correctly. Using the same architecture as for the AND problem, you can see that the model converges to the right solution after about 300 iterations. As a side note, let me just mention that the number of iterations is not important for this post as we just look for a model that can yield 100% accuracy.
+
+
+```python
+model = models.Sequential()
+model.add(layers.Dense(1, activation='sigmoid', input_shape=(2,)))
+model.summary()
+model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
+
+history = model.fit(or_data, 
+                    or_labels, 
+                    epochs=400,
+                    batch_size=16,
+                    verbose=0)
+
+
+history_dict = history.history
+history_dict.keys()
+
+
+plt.figure(figsize=(20,10))
+plt.subplot(121)
+loss_values = history_dict['loss']
+#val_loss_values = history_dict['val_loss']
+epochs = range(1, len(loss_values) + 1)
+plt.plot(epochs, loss_values, 'bo', label='Training loss')
+#plt.plot(epochs, val_loss_values, 'b', label='Validation loss')
+plt.title('Training loss',fontsize=20)
+plt.xlabel('Epochs',fontsize=20)
+plt.ylabel('Loss',fontsize=20)
+plt.legend(fontsize=20)
+plt.xticks(fontsize=20)
+plt.yticks(fontsize=20)
+
+
+plt.subplot(122)
+acc_values = history_dict['acc']
+#val_acc_values = history_dict['val_acc']
+epochs = range(1, len(loss_values) + 1)
+plt.plot(epochs, acc_values, 'bo', label='Training acc')
+#plt.plot(epochs, val_acc_values, 'b', label='Validation acc')
+plt.title('Training accuracy',fontsize=20)
+plt.xlabel('Epochs',fontsize=20)
+plt.ylabel('Accuracy',fontsize=20)
+plt.legend(fontsize=20)
+plt.xticks(fontsize=20)
+plt.yticks(fontsize=20)
+plt.show()
+```
+
+    _________________________________________________________________
+    Layer (type)                 Output Shape              Param #   
+    =================================================================
+    dense_64 (Dense)             (None, 1)                 3         
+    =================================================================
+    Total params: 3
+    Trainable params: 3
+    Non-trainable params: 0
+    _________________________________________________________________
+
+
+
+![png](output_16_1.png)
+
+
+# The XOR problem
+
+The XOR problem is a bit more difficult. Again, the data points are clustered around four areas, and we apply the XOR logic function to each pair. For the XOR logic the result is that [0,0]=0, and [1,1]=0 but [0,1]=1, and [1,0]=1.
+
+
+```python
+# Generate Data
+data1 = np.random.multivariate_normal( [0,0], sigma, npts)
+data2 = np.random.multivariate_normal( [0,1], sigma, npts)
+data3 = np.random.multivariate_normal( [1,0], sigma, npts)
+data4 = np.random.multivariate_normal( [1,1], sigma, npts)
+
+xor_data = np.concatenate((data1, data4, data2, data3))
+xor_labels = np.concatenate((np.ones((2*npts)),np.zeros((2*npts))))
+
+plt.figure(figsize=(20,10))
+plt.scatter(xor_data[:,0][xor_labels==0], xor_data[:,1][xor_labels==0],c='b')
+plt.scatter(xor_data[:,0][xor_labels==1], xor_data[:,1][xor_labels==1],c='r')
+plt.title('XOR problem',fontsize=20)
+plt.xticks(fontsize=20)
+plt.yticks(fontsize=20)
+plt.grid('on')
+plt.show()
+```
+
+
+![png](output_19_0.png)
+
+
+The problem is that no one straight line can separate the data correctly. However, if as a first step we isolate [0,0] and [1,1] separately using two linear lines, then as a second step, we can apply the AND function to both separations and the overlapped area gives us the right classification. Thus, a two-step solution is needed: the first applies two linear lines, and the second unite the two separations using an AND logic. Other words, the minimal network is a two-layer neural network, where the first must have two neurons (i.e., two linear lines) and the second only one (i.e., applying the AND logic and before we showed that this requires only one neuron).
+
+
+```python
+model = models.Sequential()
+model.add(layers.Dense(1, activation='sigmoid', input_shape=(2,)))
+model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
+
+history = model.fit(xor_data, 
+                    xor_labels, 
+                    epochs=400,
+                    batch_size=32,
+                    verbose=0)
+history_dict_10 = history.history
+
+model = models.Sequential()
+model.add(layers.Dense(1, activation='relu', input_shape=(2,)))
+model.add(layers.Dense(1, activation='sigmoid'))
+model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
+
+history = model.fit(xor_data, 
+                    xor_labels, 
+                    epochs=400,
+                    batch_size=32,
+                    verbose=0)
+history_dict_11 = history.history
+
+model = models.Sequential()
+model.add(layers.Dense(2, activation='relu', input_shape=(2,)))
+model.add(layers.Dense(1, activation='sigmoid'))
+model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
+
+history = model.fit(xor_data, 
+                    xor_labels, 
+                    epochs=400,
+                    batch_size=32,
+                    verbose=0)
+history_dict_21 = history.history
+
+
+history = model.fit(xor_data, 
+                    xor_labels, 
+                    epochs=400,
+                    batch_size=32,
+                    verbose=0)
+history_dict_41 = history.history
+```
+
+To test for the minimal set of two layers with two and one neurons (denoted as 2_1), I also run two more Keras implementations with a fewer number of layers and neurons. Indeed you can see that the 2_1 model (two layers with two and one neurons) converges to the right solution, while the 1_0 (one layer with one neuron) and 1_1 models (two layers with one and one neurons) approximate the data quite well but never converge to 100% accuracy. So, although it is not a formal proof that covers all aspects of the minimal set that required for classification, it should give you enough hands-on intuition into why the minimal set requires only two layers with two and one neurons.
+
+
+```python
+plt.figure(figsize=(20,10))
+plt.subplot(121)
+loss_values = history_dict_10['loss']
+epochs = range(1, len(loss_values) + 1)
+plt.plot(epochs, history_dict_10['loss'], 'o', label='Training loss')
+plt.plot(epochs, history_dict_11['loss'], 'o', label='Training loss')
+plt.plot(epochs, history_dict_21['loss'], 'o', label='Training loss')
+plt.title('Training loss',fontsize=20)
+plt.xlabel('Epochs',fontsize=20)
+plt.ylabel('Loss',fontsize=20)
+plt.legend(['1_0','1_1','2_1','4_1'],fontsize=20)
+plt.xticks(fontsize=20)
+plt.yticks(fontsize=20)
+
+
+plt.subplot(122)
+acc_values = history_dict_10['loss']
+epochs = range(1, len(loss_values) + 1)
+plt.plot(epochs, history_dict_10['acc'], 'o', label='Training loss')
+plt.plot(epochs, history_dict_11['acc'], 'o', label='Training loss')
+plt.plot(epochs, history_dict_21['acc'], 'o', label='Training loss')
+plt.title('Training accuracy',fontsize=20)
+plt.xlabel('Epochs',fontsize=20)
+plt.ylabel('Accuracy',fontsize=20)
+plt.legend(['1_0','1_1','2_1','4_1'],fontsize=20)
+plt.xticks(fontsize=20)
+plt.yticks(fontsize=20)
+plt.show()
+```
+
+
+![png](output_23_0.png)
+
+
+# The two-moon problem
+
+The two moon problem is well known. Data points with a moon shapes are facing each other while slightly shifted horizontally. Take a moment and think — what is the minimal number of neurons and layers that are needed to separate the moons?
+
+
+```python
+import sklearn.datasets as sk  
+tm_data, tm_labels = sk.make_moons(n_samples=400, shuffle=True, noise=0.05, random_state=0)
+print(tm_data.shape)
+print(tm_labels.shape)
+```
+
+    (400, 2)
+    (400,)
+
+
+
+```python
+plt.figure(figsize=(20,10))
+plt.scatter(tm_data[:,0][tm_labels==0],tm_data[:,1][tm_labels==0],c='b')
+plt.scatter(tm_data[:,0][tm_labels==1],tm_data[:,1][tm_labels==1],c='r')
+plt.title('Two-moon problem',fontsize=20)
+plt.xticks(fontsize=20)
+plt.yticks(fontsize=20)
+plt.grid('on')
+plt.show()
+```
+
+
+![png](output_27_0.png)
+
+
+At this point I recommend you to take a piece of paper and try to isolate the red moon from the blue moon using only straight lines. What is the minimal number of straight lines that are needed? 
+
+Give it a few minutes, and soon you will find that four lines are needed: two lines near one end of the red (or blue) moon and two on the other end of the red (or blue) moon. So, the first step is to place the four lines. The second step is to apply the AND logic to each edge pair (i.e., take the overlap areas) — this forms two triangles, were each cover about half the moon. The third step is to apply the OR logic to the two triangles (i.e., take the union of both triangles) to completely isolate the red moon from the blue. Overall, the minimum network uses three layers — the first layer uses four neurons, the second layer two, and the third layer one.
+
+
+```python
+e_num=1000
+bs_num=32
+model = models.Sequential()
+model.add(layers.Dense(1, activation='sigmoid', input_shape=(2,)))
+model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
+history = model.fit(tm_data, 
+                    tm_labels, 
+                    epochs=e_num,
+                    batch_size=bs_num,
+                    verbose=0)
+history_dict = history.history
+model = models.Sequential()
+model.add(layers.Dense(2, activation='relu', input_shape=(2,)))
+model.add(layers.Dense(1, activation='sigmoid'))
+model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
+history = model.fit(tm_data, 
+                    tm_labels, 
+                    epochs=e_num,
+                    batch_size=bs_num,
+                    verbose=0)
+history_dict_21 = history.history
+model = models.Sequential()
+model.add(layers.Dense(4, activation='relu', input_shape=(2,)))
+model.add(layers.Dense(1, activation='sigmoid'))
+model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
+history = model.fit(tm_data, 
+                    tm_labels, 
+                    epochs=e_num,
+                    batch_size=bs_num,
+                    verbose=0)
+history_dict_41 = history.history
+model = models.Sequential()
+model.add(layers.Dense(2, activation='relu', input_shape=(2,)))
+model.add(layers.Dense(2, activation='relu'))
+model.add(layers.Dense(1, activation='sigmoid'))
+model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
+history = model.fit(tm_data, 
+                    tm_labels, 
+                    epochs=e_num,
+                    batch_size=bs_num,
+                    verbose=0)
+history_dict_221 = history.history
+model = models.Sequential()
+model.add(layers.Dense(3, activation='relu', input_shape=(2,)))
+model.add(layers.Dense(2, activation='relu'))
+model.add(layers.Dense(1, activation='sigmoid'))
+model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
+history = model.fit(tm_data, 
+                    tm_labels, 
+                    epochs=e_num,
+                    batch_size=bs_num,
+                    verbose=0)
+history_dict_321 = history.history
+model = models.Sequential()
+model.add(layers.Dense(4, activation='relu', input_shape=(2,)))
+model.add(layers.Dense(2, activation='relu'))
+model.add(layers.Dense(1, activation='sigmoid'))
+model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
+history = model.fit(tm_data, 
+                    tm_labels, 
+                    epochs=e_num,
+                    batch_size=bs_num,
+                    verbose=0)
+history_dict_421 = history.history
+```
+
+As before, to test for the minimal set of three layers with four, two, and one neurons (denoted as 4_2_1), I also run a few more Keras implementations with a fewer number of layers and neurons. It is easy to see that only the 4_2_1 model reaches 100% accuracy, while the 2_1, 4_1, 2_2_1, 3_2_1 networks approximate the data well but never converge to 100% accuracy.
+
+
+```python
+plt.figure(figsize=(20,10))
+plt.subplot(121)
+loss_values = history_dict_21['loss']
+epochs = range(1, len(loss_values) + 1)
+plt.plot(epochs, history_dict_21['loss'], 'o', label='Training loss')
+plt.plot(epochs, history_dict_41['loss'], 'o', label='Training loss')
+plt.plot(epochs, history_dict_221['loss'], 'o', label='Training loss')
+plt.plot(epochs, history_dict_321['loss'], 'o', label='Training loss')
+plt.plot(epochs, history_dict_421['loss'], 'o', label='Training loss')
+plt.title('Training loss',fontsize=20)
+plt.xlabel('Epochs',fontsize=20)
+plt.ylabel('Loss',fontsize=20)
+plt.legend(['2_1','4_1','2_2_1','3_2_1','4_2_1'],fontsize=20)
+plt.xticks(fontsize=20)
+plt.yticks(fontsize=20)
+
+
+plt.subplot(122)
+acc_values = history_dict_21['loss']
+epochs = range(1, len(acc_values) + 1)
+plt.plot(epochs, history_dict_21['acc'], 'o', label='Training loss')
+plt.plot(epochs, history_dict_41['acc'], 'o', label='Training loss')
+plt.plot(epochs, history_dict_221['acc'], 'o', label='Training loss')
+plt.plot(epochs, history_dict_321['acc'], 'o', label='Training loss')
+plt.plot(epochs, history_dict_421['acc'], 'o', label='Training loss')
+plt.title('Training accuracy',fontsize=20)
+plt.xlabel('Epochs',fontsize=20)
+plt.ylabel('Accuracy',fontsize=20)
+plt.legend(['2_1','4_1','2_2_1','3_2_1','4_2_1'],fontsize=20)
+plt.xticks(fontsize=20)
+plt.yticks(fontsize=20)
+plt.show()
+```
+
+
+![png](output_31_0.png)
+
+
+To summarize, classification using neural networks allows for very complex ways to compound linear functions and classify non-convex data. While it is easy to run the models and classify the data correctly, we want to make sure that we understand and have a good intuition on what the model is doing behind the scene.
+
+Here, I chose a few simple examples and explored the minimum number of neurons and layers that are needed for correct classification. I showed that a 1-layer system can represent half-planes (i.e., the AND or OR logic), that 2-layer system can classify points inside any number of arbitrary lines (i.e., the XOR logic), and that a 3-layer system can classify non-convex shapes (i.e., the two-moon problem).
