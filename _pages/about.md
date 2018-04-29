@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # News!
-* April 28, 2018: Come and read my `new post` - [Classification hierarchy with a minimum set of neurons.](https://naftalic.github.io//posts/2018/04/hierarchy/) This time I explore a hierarchy of classifications with various dimensions and concentrate on the number of neurons that are required to classify the data correctly. Look at the following two balls - how many neurons are needed to isolate the inner ball from the outer one? Only `10 minute read!` <img src='/images/output_5_0_3.png'>
+* April 28, 2018: Come and read my `new post` - [Classification hierarchy with a minimum set of neurons.](https://naftalic.github.io//posts/2018/04/hierarchy/) This time I explore a hierarchy of classifications with various dimensions and concentrate on the number of neurons that are required classify the data correctly. Look at the following two spheres - what is the minimum number of layers and neurons that are needed to isolate the inner sphere from the outer one? Only `10 minute read!` <img src='/images/output_5_0_3.png'>
 
 * April 14, 2018: A `new post` is out - [How many layers do you need?](https://naftalic.github.io//posts/2018/04/layers/) Look at the following labeled data and think, using a neural network, what is the minimum number of neurons and layers that are needed to classify the training examples correctly? In this post, I will explore this problem and demonstrate the solution using Keras. Only `15 minute read!` <img src='/images/output_19_0_2.png'><img src='/images/output_27_0_2.png'>
 
