@@ -27,9 +27,11 @@ Education
 
 Work experience
 ======
-* 2018 - present : **Data Scientist Associate - Intelligent Solution**
+* 2018 - present : **Data Scientist Associate - Intelligent Digital Solution**
   * _JPMorgan Chase & Co._, New York NY
-  * Big-Data analytics, AI strategies, Statistical learning, and Predictive Modeling
+  * Leverage Chase data to deliver consumer spending insights to inform product development, glide path design, and financial advisor recommendations
+  * Mine internal proprietary data from past investments to gain insights towards future acquisitions 
+
 
 * 2016 - 2017: **Data and Research Scientist**
   * _Columbia University in the City of New York_, New York NY
@@ -67,7 +69,7 @@ Skills
   
 *	**Data Wrangling and Scraping**: BeautifulSoup, RegularExpression, ElementTree
   
-*	**SQL**: pgSQL
+*	**SQL**: PostgreSQL
 
 *	**NLP**: Word2Vec, TF-IDF, Bag of Words, spaCy
   
