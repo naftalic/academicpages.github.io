@@ -27,8 +27,7 @@ Education
 Work experience
 ======
 * 2018 - present : **Data Scientist - Intelligent Digital Solution**
-  * _JPMorgan Chase & Co._, New York NY
-  
+  * _JPMorgan Chase & Co._, New York NY  
   * Build Spark pipelines to leverage proprietary Chase data and deliver consumer spending insights to inform product development and financial advisor recommendations 
   * Mine proprietary data from past investments, using python, SQL and Spark, to gain insights towards future acquisitions 
   * Big-Data aggregation, injection, and maintenance of dense tables with ~1T rows and ~100 features for ~100M unique ids. This requires parallel processing and joining partitioned tables from multiple sources based on various indexes
