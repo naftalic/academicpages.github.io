@@ -11,10 +11,9 @@ redirect_from:
 
 Short Bio
 =====
-I hold a _Ph.D. in Applied Math_ from the [`Courant Institute`](https://www.cims.nyu.edu/ "Courant Institute") at [`New York University`](https://www.nyu.edu/ "New York University"), graduating in 2014. 
-Currently, I work as a _Data Scientist_ in the Intelligent Solutions group at [`JPMorgan Chase`](https://www.jpmorganchase.com "JPMorgan Chase"), focusing on _Big-Data analytics, AI strategies, Statistical learning, and Predictive Modeling_. 
-Previously, I worked as a _Data Scientist and Researcher_ at [`Yale University`](https://www.yale.edu/ "Yale University") and [`Columbia University`](https://www.columbia.edu/ "Columbia University") concentrating on the stochasticity and predictability of high-impact storms and the climate system. 
-I have vast experience in designing algorithms, performing numerical simulations and applying statistical learning to real-world data, and have _published my work in more than ten peer-reviewed papers_. I am also an alumnus of [`The Data Incubator`](https://www.thedataincubator.com/ "The Data Incubator").
+I hold a _Ph.D. in Applied Mathematics_ from the [`Courant Institute`](https://www.cims.nyu.edu/ "Courant Institute") at [`New York University`](https://www.nyu.edu/ "New York University"), with over five years working as a Data Scientist and Researcher in a corporate and academic setting. I have in-depth experience working with Python, SQL databases, Spark, as well as with statistical packages, machine-learning algorithms, and predictive modeling.
+
+I have published my work as a first-author in 10+ peer-reviewed papers. I am also an alumnus of [`The Data Incubator`](https://www.thedataincubator.com/ "The Data Incubator").
 
 
 Education
@@ -27,11 +26,12 @@ Education
 
 Work experience
 ======
-* 2018 - present : **Data Scientist Associate - Intelligent Digital Solution**
+* 2018 - present : **Data Scientist - Intelligent Digital Solution**
   * _JPMorgan Chase & Co._, New York NY
-  * Leverage Chase data to deliver consumer spending insights to inform product development, glide path design, and financial advisor recommendations
-  * Mine internal proprietary data from past investments to gain insights towards future acquisitions 
-
+  
+  * Build Spark pipelines to leverage proprietary Chase data and deliver consumer spending insights to inform product development and financial advisor recommendations 
+  * Mine proprietary data from past investments, using python, SQL and Spark, to gain insights towards future acquisitions 
+  * Big-Data aggregation, injection, and maintenance of dense tables with ~1T rows and ~100 features for ~100M unique ids. This requires parallel processing and joining partitioned tables from multiple sources based on various indexes
 
 * 2016 - 2017: **Data and Research Scientist**
   * _Columbia University in the City of New York_, New York NY
@@ -61,24 +61,28 @@ techniques
   
 Skills
 ======
-*	**Python**: Numpy, Pandas, SciPy, Scikit-learn, Beautiful Soup, Keras
-  
+*	**Python**: Numpy, Pandas, SciPy, Scikit-Learn, Beautiful Soup, Keras
+
+*	**Distributed computing**: PySpark, Spark-2, spark.ml
+
 *	**Advanced Machine learning**: Regression, Classification, Clustering, Supervised and Unsupervised learning, SVM, Ensemble Methods
   
 *	**Neural Network and Deep Learning**: Optimization, CNN, RNN, Keras
   
-*	**Data Wrangling and Scraping**: BeautifulSoup, RegularExpression, ElementTree
+*	**Data Wrangling and Scraping**: BeautifulSoup, re, ElementTree
   
 *	**SQL**: PostgreSQL
 
-*	**NLP**: Word2Vec, TF-IDF, Bag of Words, spaCy
+*	**NLP**: NLTK, spaCy
   
 *	**Visualization**: Matplotlib, Plotly
   
-*	**Time Series**: Seasonal, Spectral models, ARIMA, LSTM
-  
-*	**Distributed computing**: MapReduce, PySpark
+*	**Time Series**: Seasonal, Spectral models, ARIMA
 
+* **Bayesian inference**
+
+* **Bash**
+  
 Awards and Honors
 ======
 * SPARC Gravity Wave Symposium **Award**, 2016
