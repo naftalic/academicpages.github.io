@@ -11,14 +11,14 @@ redirect_from:
 
 Short Bio
 =====
-I hold a _Ph.D. in Applied Mathematics_ from the [`Courant Institute`](https://www.cims.nyu.edu/ "Courant Institute") at [`New York University`](https://www.nyu.edu/ "New York University"), with over five years working as a Data Scientist and Researcher in a corporate and academic setting. I have in-depth experience working with Python, SQL databases, Spark, as well as with statistical packages, machine-learning algorithms, and predictive modeling.
 
-I have published my work as a first-author in 10+ peer-reviewed papers. I am also an alumnus of [`The Data Incubator`](https://www.thedataincubator.com/ "The Data Incubator").
+I am a research scientist at [`AI Research`](https://www.jpmorgan.com/global/technology/artificial-intelligence "AI Research"), [`JP Morgan`](https://www.jpmorgan.com/ "JP Morgan"). I have over ten years of R&D work experience in numerical modeling, predictive analytics, machine learning, and AI in both academic and industrial settings.
+Before joining JP Morgan, I worked as an academic researcher at [`Yale University`](https://www.yale.edu/ "Yale University") and [`Columbia University`](https://www.columbia.edu/ "Columbia University").
+I hold a Ph.D. in Applied Mathematics from the [`Courant Institute`](https://www.cims.nyu.edu/ "Courant Institute") -- [`New York University`](https://www.nyu.edu/ "New York University"). My academic research focused on climate science and storms formation. In addition, I am a MacCracken fellow and an elected member of the International Space Science Institute.
 
 
 Education
 ======
-* **Data Science**, Fellow at [`The Data Incubator`](https://www.thedataincubator.com/ "The Data Incubator"), New York NY, 2017
 * **Ph.D.** in Applied Mathematics, [`Courant Institute of Mathematical Sciences`](https://www.cims.nyu.edu/ "Courant Institute of Mathematical Sciences"), New York University, New York NY, 2014
 * **M.Sc.** in Atmospheric Sciences, [`The Hebrew University`](http://new.huji.ac.il/ "The Hebrew University"), Jerusalem, Israel, 2008
 * **B.Sc.** in Atmospheric Sciences and Chemistry, [`The Hebrew University`](http://new.huji.ac.il/ "The Hebrew University"), Jerusalem, Israel, 2006
@@ -26,11 +26,22 @@ Education
 
 Work experience
 ======
-* 2018 - present : **Data Scientist - Intelligent Digital Solution**
+
+* 2019 : **Research Scientist - AI Research**
   * _JPMorgan Chase & Co._, New York NY  
-  * Build Spark pipelines to leverage proprietary Chase data and deliver consumer spending insights to inform product development and financial advisor recommendations 
-  * Mine proprietary data from past investments, using python, SQL and Spark, to gain insights towards future acquisitions 
+  * Develop the next-generation computer vision solutions for the financial markets 
+  * Develop Lagrangian and Eulerian numerical models to simulate and predict net promoter scores
+  
+* 2018 : **Data Scientist - Intelligent Digital Solutions, Asset & Wealth Management**
+  * _JPMorgan Chase & Co._, New York NY  
+  * Build Spark pipelines to leverage proprietary Chase data and deliver consumer spending insights to inform product development and financial advisor recommendations
+  * Mine proprietary data from past investments, using python, SQL and Spark, to gain insights towards future acquisitions
   * Big-Data aggregation, injection, and maintenance of dense tables with ~1T rows and ~100 features for ~100M unique ids. This requires parallel processing and joining partitioned tables from multiple sources based on various indexes
+  
+* 2017 : **Data Scientist - Intelligent Solutions (JPMIS)**
+  * _JPMorgan Chase & Co._, New York NY  
+  * Analyze Chase data to deliver retirement-related spending insights to inform product development and financial advisor recommendations
+  * Big-Data aggregation and maintenance of dense tables with ~1T rows and ~100 features for ~100M unique ids. This requires parallel processing and joining partitioned tables from multiple sources based on various indexes
 
 * 2016 - 2017: **Data and Research Scientist**
   * _Columbia University in the City of New York_, New York NY
@@ -38,7 +49,7 @@ Work experience
 
 * 2014 - 2015: **Data and Research Scientist**
   * _Yale University_, New Haven CT
-  * Classifying monsoon storms in unstructured observational data (1+ TB); developing storm-tracking algorithms for the storm’s development, risk evaluation, and prediction
+  * Classifying monsoon storms in unstructured observational data (1+ TB); developing storm-tracking algorithms for the storm’s development, risk evaluation, and prediction 
   * Develop nonlinear regression algorithms for identifying and predicting trends in incomplete data using statistical inference, model selection, and bias correction methods
 
 * 2009 - 2013: **Graduate Research Assistant**
@@ -84,6 +95,8 @@ Skills
   
 Awards and Honors
 ======
+* The Data Incubator, New York **Fellow**, 2017
+
 * SPARC Gravity Wave Symposium **Award**, 2016
 
 * SPARC-SHARP Young Scientist **Award**, 2016
@@ -104,6 +117,10 @@ Awards and Honors
 
 Journal Publications
 ======
+* **Naftali Cohen**, Tucker Balch, and Manuela Veloso 2019: Trading via Image Classification, submitted to Neurips 2019
+
+* **Naftali Cohen**, Tucker Balch, and Manuela Veloso 2019: The effect of visual design in image classification, submitted to Neurips 2019
+
 * **Naftali Y Cohen**, and William R Boos, 2017: [The influence of orographic Rossby and gravity waves on rainfall](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2969), Quarterly Journal of the Royal Meteorological Society, doi: 10.1002/qj.2969  
 
 * **Naftali Y Cohen**, and William R Boos, 2016: [Perspectives on moist baroclinic instability: implications for the growth of monsoon depressions](https://journals.ametsoc.org/doi/abs/10.1175/JAS-D-15-0254.1), Journal of the Atmospheric Sciences, 73:4, 1767–1788, doi: 10.1175/JAS-D-15-0254.1 
@@ -138,10 +155,12 @@ Other Publications
 
 Publication citations
 ======
-* ~150 (based on Google Scholar metric, 2018)
+* ~200 (based on Google Scholar metric, 2019)
 
 Keynote, Invited, and Conference presentations
 ====== 
+* OAISS NY, **New York, NY**, USA May 2019: Countdown to 2020 - The tipping point for convergence of digital, automation and AI
+
 * DeepWave workshop, **Yale, New Haven, CT**, USA, August 2017: The impact of gravity waves on the large-scale circulation
 
 * Colloquium, Climate Change Research Center, **UNSW, Sydney, Australia**, May 2017: Recent developments in the study of monsoon depressions: genesis, growth, propagation, and trend
