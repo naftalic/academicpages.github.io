@@ -93,28 +93,6 @@ Skills
 * **Bayesian inference**
 
 * **Bash**
-  
-Awards and Honors
-======
-* The Data Incubator, New York **Fellow**, 2017
-
-* SPARC Gravity Wave Symposium **Award**, 2016
-
-* SPARC-SHARP Young Scientist **Award**, 2016
-
-* IPAM-UCLA **Fellowship**, 2014
-
-* GSAS MacCracken **Fellowship**, 2009-2014
-
-* ICCP **Fellowship**, 2008
-
-* Excellence **Fellowship**, The Hebrew University, Israel, 2007-7008
-
-* Reserve **Fellowship**, The Jewish Agency for Israel, 2006
-
-* **Dean’s list of excellence**, The Hebrew University, Israel, 2004-2005
-
-* **Fellowship**, Ministry of Education, 2004
 
 Journal Publications
 ======
@@ -157,6 +135,28 @@ Other Publications
 * **Naftali Y Cohen**, and Alexander P Khain, 2008: Effects of aerosols on lightning and intensity of hurricanes, Proc. The 15th International Conference on Clouds and Precipitation, Cancun, Mexico
 
 * Khain, Alexander P, **Naftali Y Cohen**, Yaron Segal, Barry Lynn, and Daniel Rosenfeld, 2007: Effects of aerosols on lightning and structure of tropical cyclones, Proc. IUGG XXIV, Perugia, Italy, International Association of Meteorology and Atmospheric Sciences, 986
+
+Awards and Honors
+======
+* The Data Incubator, New York **Fellow**, 2017
+
+* SPARC Gravity Wave Symposium **Award**, 2016
+
+* SPARC-SHARP Young Scientist **Award**, 2016
+
+* IPAM-UCLA **Fellowship**, 2014
+
+* GSAS MacCracken **Fellowship**, 2009-2014
+
+* ICCP **Fellowship**, 2008
+
+* Excellence **Fellowship**, The Hebrew University, Israel, 2007-7008
+
+* Reserve **Fellowship**, The Jewish Agency for Israel, 2006
+
+* **Dean’s list of excellence**, The Hebrew University, Israel, 2004-2005
+
+* **Fellowship**, Ministry of Education, 2004
 
 Publication citations
 ======
