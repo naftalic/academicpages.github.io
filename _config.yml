@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Naftali Cohen"
 description              : &description "personal description"
 url                      : https://naftalic.github.io/ #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/bio" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : naftalic/naftalic.github.io #"academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
