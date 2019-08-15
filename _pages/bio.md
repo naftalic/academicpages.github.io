@@ -28,9 +28,10 @@ Work experience
 ======
 
 * 2019 : **Research Scientist - AI Research**
-  * _JPMorgan Chase & Co._, New York NY  
-  * Develop the next-generation computer vision solutions for the financial markets 
-  * Develop Lagrangian and Eulerian numerical models to simulate and predict net promoter scores
+  * _JPMorgan Chase & Co._, New York NY 
+  * Head of AI Research laboratory for decision intelligence studies 
+  * Develop computer vision solutions for the financial services 
+  * Develop models to evaluate and predict survey responses and employee attrition
   
 * 2018 : **Data Scientist - Intelligent Digital Solutions, Asset & Wealth Management**
   * _JPMorgan Chase & Co._, New York NY  
@@ -117,9 +118,13 @@ Awards and Honors
 
 Journal Publications
 ======
-* **Naftali Cohen**, Tucker Balch, and Manuela Veloso 2019: Trading via Image Classification, submitted to Neurips 2019
+* **Naftali Cohen**, Keshav Ramani, and Manuela Veloso, 2019: Privacy-preserving method for summarizing desktop activity, in submittion
 
-* **Naftali Cohen**, Tucker Balch, and Manuela Veloso 2019: The effect of visual design in image classification, submitted to Neurips 2019
+* **Naftali Cohen**, Simran Lamba, and Prashant Reddy, 2019: Predictability Bounds on Binned Ordinal Surveys, in submittion
+
+* **Naftali Cohen**, Tucker Balch, and Manuela Veloso, 2019: [Trading via Image Classification](https://arxiv.org/abs/1907.10046), submitted
+
+* **Naftali Cohen**, Tucker Balch, and Manuela Veloso, 2019: [The effect of visual design in image classification](https://arxiv.org/abs/1907.09567), submitted 
 
 * **Naftali Y Cohen**, and William R Boos, 2017: [The influence of orographic Rossby and gravity waves on rainfall](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2969), Quarterly Journal of the Royal Meteorological Society, doi: 10.1002/qj.2969  
 
