@@ -122,9 +122,9 @@ Journal Publications
 
 * **Naftali Cohen**, Simran Lamba, and Prashant Reddy, 2019: Predictability Bounds on Binned Ordinal Surveys, in submittion
 
-* **Naftali Cohen**, Tucker Balch, and Manuela Veloso, 2019: [Trading via Image Classification](https://arxiv.org/abs/1907.10046), submitted
+* **Naftali Cohen**, Tucker Balch, and Manuela Veloso, 2019: [Trading via Image Classification](https://arxiv.org/abs/1907.10046), arXiv:1907.10046
 
-* **Naftali Cohen**, Tucker Balch, and Manuela Veloso, 2019: [The effect of visual design in image classification](https://arxiv.org/abs/1907.09567), submitted 
+* **Naftali Cohen**, Tucker Balch, and Manuela Veloso, 2019: [The effect of visual design in image classification](https://arxiv.org/abs/1907.09567), arXiv:1907.09567 
 
 * **Naftali Y Cohen**, and William R Boos, 2017: [The influence of orographic Rossby and gravity waves on rainfall](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2969), Quarterly Journal of the Royal Meteorological Society, doi: 10.1002/qj.2969  
 
