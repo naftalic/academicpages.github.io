@@ -55,29 +55,15 @@ techniques
   * _The Hebrew University_, Israel
   * Chemistry and Meteorology instructor for 3rd-12th-grade students
   
-Skills
+
+Capstone Mentoring
 ======
-*	**Python**: Numpy, Pandas, SciPy, Scikit-Learn, Beautiful Soup, Keras
+* Jesse Cahill, Thomas Causero, James DeAntonis, Ryan McNally, 2020: Know Your Client Dashboard, Data-Science Institute Columbia University
 
-*	**Distributed computing**: PySpark, Spark-2, spark.ml
+* Minghao Chen, Fan Feng, Lehui Liu, Shaofei Wang, Zhida Zhang, 2019: Eye Gaze Prediction Using Webcam, Data-Science Institute Columbia University
 
-*	**Advanced Machine learning**: Regression, Classification, Clustering, Supervised and Unsupervised learning, SVM, Ensemble Methods
-  
-*	**Neural Network and Deep Learning**: Optimization, CNN, RNN, Keras
-  
-*	**Data Wrangling and Scraping**: BeautifulSoup, re, ElementTree
-  
-*	**SQL**: PostgreSQL
+* Xiaoyu Chen, Lizhou He, Siyu Tao, Litchi Yang, Jinhao Zhang 2019: Utilizing Eye Gaze Data: Sudoku Game Decision Modelling of Experts/Novices, Data-Science Institute Columbia University
 
-*	**NLP**: NLTK, spaCy, Selenium
-  
-*	**Visualization**: Matplotlib, Plotly
-  
-*	**Time Series**: Seasonal, Spectral models, ARIMA
-
-* **Bayesian inference**
-
-* **Bash**
 
 Journal Publications
 ======
