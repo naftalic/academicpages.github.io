@@ -7,7 +7,7 @@ author_profile: true
 
 I am a research lead at [`AI Research`](https://www.jpmorgan.com/global/technology/artificial-intelligence "AI Research"), [`JP Morgan`](https://www.jpmorgan.com/ "JP Morgan"). I have over ten years of R&D work experience in numerical modeling, predictive analytics, machine learning, and AI in both academic and industrial settings.
 Before joining JP Morgan, I worked as a research scientist at the Mathematics and Physics departments of [`Yale University`](https://www.yale.edu/ "Yale University") and [`Columbia University`](https://www.columbia.edu/ "Columbia University").
-I hold a Ph.D. in Applied Mathematics from the [`Courant Institute`](https://www.cims.nyu.edu/ "Courant Institute"), [`New York University`](https://www.nyu.edu/ "New York University") and a BSc and an MSc in Physics from the [`Hebrew University of Jerusalem`](https://new.huji.ac.il/ "Hebrew University of Jerusalem"). My academic research focused on numerical simulations of geophysical fluid dynamics systems. In addition, I am a MacCracken fellow and an elected member of the International Space Science Institute.
+I hold a Ph.D. in Applied Mathematics from the [`Courant Institute`](https://www.cims.nyu.edu/ "Courant Institute"), [`New York University`](https://www.nyu.edu/ "New York University") and a BSc and an MSc in Physics from the [`Hebrew University`](https://new.huji.ac.il/ "Hebrew University"). My academic research focused on numerical simulations of geophysical fluid dynamics systems. In addition, I am a MacCracken fellow and an elected member of the International Space Science Institute.
 
 Education
 ======
@@ -55,17 +55,17 @@ techniques
   
 Capstone Mentoring
 ======
-* Jesse Cahill, Thomas Causero, James DeAntonis, Ryan McNally, 2020: Know Your Client Dashboard, Data-Science Institute Columbia University
+* Jesse Cahill, Thomas Causero, James DeAntonis, Ryan McNally, 2020: Know Your Client Dashboard, Data-Science Institute, Columbia University
 
-* Minghao Chen, Fan Feng, Lehui Liu, Shaofei Wang, Zhida Zhang, 2019: Eye Gaze Prediction Using Webcam, Data-Science Institute Columbia University
+* Minghao Chen, Fan Feng, Lehui Liu, Shaofei Wang, Zhida Zhang, 2019: Eye Gaze Prediction Using Webcam, Data-Science Institute, Columbia University
 
-* Xiaoyu Chen, Lizhou He, Siyu Tao, Litchi Yang, Jinhao Zhang 2019: Utilizing Eye Gaze Data: Sudoku Game Decision Modelling of Experts/Novices, Data-Science Institute Columbia University
+* Xiaoyu Chen, Lizhou He, Siyu Tao, Litchi Yang, Jinhao Zhang 2019: Utilizing Eye Gaze Data: Sudoku Game Decision Modelling of Experts/Novices, Data-Science Institute, Columbia University
 
 Journal Publications
 ======
-* **Naftali Cohen**, Keshav Ramani, and Manuela Veloso, 2019: Privacy-preserving method for summarizing desktop activity, in submittion
+* **Naftali Cohen**, Keshav Ramani, and Manuela Veloso, 2020: Privacy-preserving method for summarizing desktop activity, in submittion
 
-* **Naftali Cohen**, Simran Lamba, and Prashant Reddy, 2019: Predictability Bounds on Binned Ordinal Surveys, in submittion
+* **Naftali Cohen**, Simran Lamba, and Prashant Reddy, 2020: Predictability Bounds on Binned Ordinal Surveys, in submittion
 
 * **Naftali Cohen**, Tucker Balch, and Manuela Veloso, 2019: [Trading via Image Classification](https://arxiv.org/abs/1907.10046), arXiv:1907.10046
 
