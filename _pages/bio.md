@@ -12,9 +12,9 @@ redirect_from:
 Short Bio
 =====
 
-I am a research scientist at [`AI Research`](https://www.jpmorgan.com/global/technology/artificial-intelligence "AI Research"), [`JP Morgan`](https://www.jpmorgan.com/ "JP Morgan"). I have over ten years of R&D work experience in numerical modeling, predictive analytics, machine learning, and AI in both academic and industrial settings.
+I am a research lead at [`AI Research`](https://www.jpmorgan.com/global/technology/artificial-intelligence "AI Research"), [`JP Morgan`](https://www.jpmorgan.com/ "JP Morgan"). I have over ten years of R&D work experience in numerical modeling, predictive analytics, machine learning, and AI in both academic and industrial settings.
 Before joining JP Morgan, I worked as an academic researcher at [`Yale University`](https://www.yale.edu/ "Yale University") and [`Columbia University`](https://www.columbia.edu/ "Columbia University").
-I hold a Ph.D. in Applied Mathematics from the [`Courant Institute`](https://www.cims.nyu.edu/ "Courant Institute") -- [`New York University`](https://www.nyu.edu/ "New York University"). My academic research focused on climate science and storms formation. In addition, I am a MacCracken fellow and an elected member of the International Space Science Institute.
+I hold a Ph.D. in Applied Mathematics from the [`Courant Institute`](https://www.cims.nyu.edu/ "Courant Institute") -- [`New York University`](https://www.nyu.edu/ "New York University"). My academic research focused on numerical simulations of geophysical fluid dynamics systems. In addition, I am a MacCracken fellow and an elected member of the International Space Science Institute.
 
 
 Education
@@ -27,33 +27,25 @@ Education
 Work experience
 ======
 
-* 2019 : **Research Scientist - AI Research**
+* 2018 - present : **Research Lead - AI Research**
   * _JPMorgan Chase & Co._, New York NY 
-  * Head of AI Research laboratory for decision intelligence studies 
-  * Develop computer vision solutions for the financial services 
-  * Develop models to evaluate and predict survey responses and employee attrition
-  
-* 2018 : **Data Scientist - Intelligent Digital Solutions, Asset & Wealth Management**
-  * _JPMorgan Chase & Co._, New York NY  
-  * Build Spark pipelines to leverage proprietary Chase data and deliver consumer spending insights to inform product development and financial advisor recommendations
-  * Mine proprietary data from past investments, using python, SQL and Spark, to gain insights towards future acquisitions
-  * Big-Data aggregation, injection, and maintenance of dense tables with ~1T rows and ~100 features for ~100M unique ids. This requires parallel processing and joining partitioned tables from multiple sources based on various indexes
-  
-* 2017 : **Data Scientist - Intelligent Solutions (JPMIS)**
-  * _JPMorgan Chase & Co._, New York NY  
-  * Analyze Chase data to deliver retirement-related spending insights to inform product development and financial advisor recommendations
-  * Big-Data aggregation and maintenance of dense tables with ~1T rows and ~100 features for ~100M unique ids. This requires parallel processing and joining partitioned tables from multiple sources based on various indexes
+  *  Develop computer vision solutions for financial services
+  *  Head of AI laboratory for decision intelligence studies
+  *  Mine alternative data for economic modeling
+  *  Develop models to evaluate and predict customer experience
+  *  Mentor at the Data Science Institute - Columbia University
+  *  Work with different lines of businesses to identify opportunities to use data to drive business performance, innovate, and optimize processes
 
-* 2016 - 2017: **Data and Research Scientist**
+* 2016 - 2017: **Research Scientist**
   * _Columbia University in the City of New York_, New York NY
   * Analyze chaotic and high-dimensional climatological data (10+ TB) for identification of climate-change patterns using unsupervised learning techniques including dimensional reduction, filtering, and nonparametric statistics
 
-* 2014 - 2015: **Data and Research Scientist**
+* 2014 - 2015: **Research Scientist**
   * _Yale University_, New Haven CT
   * Classifying monsoon storms in unstructured observational data (1+ TB); developing storm-tracking algorithms for the storm’s development, risk evaluation, and prediction 
   * Develop nonlinear regression algorithms for identifying and predicting trends in incomplete data using statistical inference, model selection, and bias correction methods
 
-* 2009 - 2013: **Graduate Research Assistant**
+* 2009 - 2013: **Graduate Research**
   * _New York University_, New York NY
   * Design and develop algorithms to structure the chaotic climate system (1+ TB data) using pattern recognition, dimensional reduction, signal detection, and bootstrap
 techniques
@@ -84,7 +76,7 @@ Skills
   
 *	**SQL**: PostgreSQL
 
-*	**NLP**: NLTK, spaCy
+*	**NLP**: NLTK, spaCy, Selenium
   
 *	**Visualization**: Matplotlib, Plotly
   
@@ -160,7 +152,7 @@ Awards and Honors
 
 Publication citations
 ======
-* ~200 (based on Google Scholar metric, 2019)
+* ~300 (based on Google Scholar metric, 2020)
 
 Keynote, Invited, and Conference presentations
 ====== 
