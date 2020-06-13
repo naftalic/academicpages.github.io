@@ -7,15 +7,13 @@ author_profile: true
 
 I am a research lead at [`AI Research`](https://www.jpmorgan.com/global/technology/artificial-intelligence "AI Research"), [`JP Morgan`](https://www.jpmorgan.com/ "JP Morgan"). I have over ten years of R&D work experience in numerical modeling, predictive analytics, machine learning, and AI in both academic and industrial settings.
 Before joining JP Morgan, I worked as a research scientist at the Mathematics and Physics departments of [`Yale University`](https://www.yale.edu/ "Yale University") and [`Columbia University`](https://www.columbia.edu/ "Columbia University").
-I hold a Ph.D. in Applied Mathematics from the [`Courant Institute`](https://www.cims.nyu.edu/ "Courant Institute") -- [`New York University`](https://www.nyu.edu/ "New York University") and a BSc and an MSc in Physics from the [`Hebrew University of Jerusalem`](https://new.huji.ac.il/ "Hebrew University of Jerusalem"). My academic research focused on numerical simulations of geophysical fluid dynamics systems. In addition, I am a MacCracken fellow and an elected member of the International Space Science Institute.
-
+I hold a Ph.D. in Applied Mathematics from the [`Courant Institute`](https://www.cims.nyu.edu/ "Courant Institute"), [`New York University`](https://www.nyu.edu/ "New York University") and a BSc and an MSc in Physics from the [`Hebrew University of Jerusalem`](https://new.huji.ac.il/ "Hebrew University of Jerusalem"). My academic research focused on numerical simulations of geophysical fluid dynamics systems. In addition, I am a MacCracken fellow and an elected member of the International Space Science Institute.
 
 Education
 ======
 * **Ph.D.** in Applied Mathematics, [`Courant Institute of Mathematical Sciences`](https://www.cims.nyu.edu/ "Courant Institute of Mathematical Sciences"), New York University, New York NY, 2014
 * **M.Sc.** in Atmospheric Sciences, [`The Hebrew University`](http://new.huji.ac.il/ "The Hebrew University"), Jerusalem, Israel, 2008
 * **B.Sc.** in Atmospheric Sciences and Chemistry, [`The Hebrew University`](http://new.huji.ac.il/ "The Hebrew University"), Jerusalem, Israel, 2006
-
 
 Work experience
 ======
@@ -53,9 +51,8 @@ techniques
 
 * 2005 - 2008: **Head Of Chemistry and Meteorology**
   * _The Hebrew University_, Israel
-  * Chemistry and Meteorology instructor for 3rd-12th-grade students
+  * Chemistry and Meteorology instructor for 3rd- to 12th-grade students
   
-
 Capstone Mentoring
 ======
 * Jesse Cahill, Thomas Causero, James DeAntonis, Ryan McNally, 2020: Know Your Client Dashboard, Data-Science Institute Columbia University
@@ -63,7 +60,6 @@ Capstone Mentoring
 * Minghao Chen, Fan Feng, Lehui Liu, Shaofei Wang, Zhida Zhang, 2019: Eye Gaze Prediction Using Webcam, Data-Science Institute Columbia University
 
 * Xiaoyu Chen, Lizhou He, Siyu Tao, Litchi Yang, Jinhao Zhang 2019: Utilizing Eye Gaze Data: Sudoku Game Decision Modelling of Experts/Novices, Data-Science Institute Columbia University
-
 
 Journal Publications
 ======
