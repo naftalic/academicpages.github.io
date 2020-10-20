@@ -65,7 +65,7 @@ Capstone Mentoring
 
 * Xiaoyu Chen, Lizhou He, Siyu Tao, Litchi Yang, Jinhao Zhang 2019: Utilizing Eye Gaze Data: Sudoku Game Decision Modelling of Experts/Novices, Data-Science Institute, Columbia University
 
-Journal Publications
+Journal & Conference Publications
 ======
 * **Naftali Cohen**, Simran Lamba, and Prashant Reddy, 2020: What can be learned from satisfaction assessments? - accepted to ICAIF-2020
 
@@ -86,6 +86,16 @@ Journal Publications
 * **Naftali Y Cohen**, Edwin P Gerber and Oliver Bühler, 2013: [Compensation between Resolved and Unresolved Wave Driving in the Stratosphere: Implications for Downward Control](https://journals.ametsoc.org/doi/abs/10.1175/JAS-D-12-0346.1), Journal of the Atmospheric Sciences, 70, 3780–3798, doi: 10.1175/JAS-D-12-0346.1
 
 * Alexander P. Khain, **Naftali Y Cohen**, Barry Lynn and Andrei Pokrovsky, 2008: [Possible aerosol effects on lightning activity and structure of hurricanes](https://journals.ametsoc.org/doi/abs/10.1175/2008JAS2678.1), Journal of the Atmospheric Sciences, 65, 3652–3677, doi: 10.1175/2008JAS2678.1 
+
+Patents
+======
+* Method for accounting for impact of uncertainty in customer surveys, Submitted on October 2020 
+
+* Method for automatically identifying signals or patterns in time series data by treating series as image - extention, Submitted on May 2020
+
+* Systems and methods for privacy-preserving summarization of digital activity, Submitted on December 2019
+
+* Method for automatically identifying signals or patterns in time series data by treating series as image, Submitted on April 2019
 
 Books
 ======
