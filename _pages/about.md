@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 
-I am a research lead at [`AI Research`](https://www.jpmorgan.com/global/technology/artificial-intelligence "AI Research"), [`JP Morgan`](https://www.jpmorgan.com/ "JP Morgan"). I have over ten years of R&D work experience in numerical modeling, predictive analytics, machine learning, and AI in both academic and industrial settings.
+I am a research lead and Vice President at [`AI Research`](https://www.jpmorgan.com/global/technology/artificial-intelligence "AI Research"), [`JP Morgan`](https://www.jpmorgan.com/ "JP Morgan"). I have over 10 years of R&D work experience in numerical modeling, predictive analytics, machine learning, and AI in both academic and industrial settings.
 Before joining JP Morgan, I worked as a research scientist at the Mathematics and Physics departments of [`Yale University`](https://www.yale.edu/ "Yale University") and [`Columbia University`](https://www.columbia.edu/ "Columbia University").
 I hold a Ph.D. in Applied Mathematics from the [`Courant Institute`](https://www.cims.nyu.edu/ "Courant Institute"), [`New York University`](https://www.nyu.edu/ "New York University") and a BSc and an MSc in Physics from the [`Hebrew University`](https://new.huji.ac.il/ "Hebrew University"). My academic research focused on numerical simulations of geophysical fluid dynamics systems. 
 
@@ -55,6 +55,10 @@ techniques
   
 Capstone Mentoring
 ======
+* 2020: Reinforcement Learning for Trading, Data-Science Institute, Columbia University
+
+* 2020: Identifying Trading Opportunities through Unsupervised Learning, Data-Science Institute, Columbia University
+
 * Jesse Cahill, Thomas Causero, James DeAntonis, Ryan McNally, 2020: Know Your Client Dashboard, Data-Science Institute, Columbia University
 
 * Minghao Chen, Fan Feng, Lehui Liu, Shaofei Wang, Zhida Zhang, 2019: Eye Gaze Prediction Using Webcam, Data-Science Institute, Columbia University
@@ -63,11 +67,9 @@ Capstone Mentoring
 
 Journal Publications
 ======
-* **Naftali Cohen**, Keshav Ramani, and Manuela Veloso, 2020: Privacy-preserving method for summarizing desktop activity, in submittion
+* **Naftali Cohen**, Simran Lamba, and Prashant Reddy, 2020: What can be learned from satisfaction assessments? - accepted to ICAIF-2020
 
-* **Naftali Cohen**, Simran Lamba, and Prashant Reddy, 2020: Predictability Bounds on Binned Ordinal Surveys, in submittion
-
-* **Naftali Cohen**, Tucker Balch, and Manuela Veloso, 2019: [Trading via Image Classification](https://arxiv.org/abs/1907.10046), arXiv:1907.10046
+* **Naftali Cohen**, Tucker Balch, and Manuela Veloso, 2019: [Trading via Image Classification](https://arxiv.org/abs/1907.10046), arXiv:1907.10046 - accepted to ICAIF-2020
 
 * **Naftali Cohen**, Tucker Balch, and Manuela Veloso, 2019: [The effect of visual design in image classification](https://arxiv.org/abs/1907.09567), arXiv:1907.09567 
 
@@ -131,6 +133,10 @@ Publication citations
 
 Keynote, Invited, and Conference presentations
 ====== 
+* ACM International Conference on AI in Finance, **New York, NY**, USA October 2020: What can be learned from satisfaction assessments?
+
+* ACM International Conference on AI in Finance, **New York, NY**, USA October 2020: Trading via Image Classification
+
 * OAISS NY, **New York, NY**, USA May 2019: Countdown to 2020 - The tipping point for convergence of digital, automation and AI
 
 * DeepWave workshop, **Yale, New Haven, CT**, USA, August 2017: The impact of gravity waves on the large-scale circulation
