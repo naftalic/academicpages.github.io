@@ -55,7 +55,7 @@ techniques
   
 Capstone Mentoring
 ======
-* 2020: Reinforcement Learning for Trading, Data-Science Institute, Columbia University
+* Kevin Womack, Benjamin Livingston, Shreyas Jadhav, Mariem Ayadi, and Amogh Mishra, 2020: Reinforcement Learning for Trading, Data-Science Institute, Columbia University
 
 * 2020: Identifying Trading Opportunities through Unsupervised Learning, Data-Science Institute, Columbia University
 
