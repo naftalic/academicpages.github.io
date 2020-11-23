@@ -20,12 +20,12 @@ Work experience
 
 * 2018 - present : **Research Lead - AI Research**
   * _JPMorgan Chase & Co._, New York NY 
-  *  Develop computer vision solutions for financial services
-  *  Head of AI laboratory for decision intelligence studies
-  *  Mine alternative data for economic modeling
+  
+  *  Develop deep-learning and machine-learning solutions for the financial services
+  *  Mine data (10+ TB) for economic forecasts and financial investments 
   *  Develop models to evaluate and predict customer experience
   *  Mentor at the Data Science Institute - Columbia University
-  *  Work with different lines of businesses to identify opportunities to use data to drive business performance, innovate, and optimize processes
+  *  Lead external collaborations with academic researchers
 
 * 2016 - 2017: **Research Scientist**
   * _Columbia University in the City of New York_, New York NY
@@ -57,7 +57,7 @@ Capstone Mentoring
 ======
 * Kevin Womack, Benjamin Livingston, Shreyas Jadhav, Mariem Ayadi, and Amogh Mishra, 2020: Reinforcement Learning for Trading, Data-Science Institute, Columbia University
 
-* 2020: Identifying Trading Opportunities through Unsupervised Learning, Data-Science Institute, Columbia University
+* Romane S Goldmuntz, Hritik Jain, Kassiani Papasotiriou, Amaury Sudrie, Maxime Tchibozo, and Vy Tran, 2020: Identifying Trading Opportunities through Unsupervised Learning, Data-Science Institute, Columbia University
 
 * Jesse Cahill, Thomas Causero, James DeAntonis, Ryan McNally, 2020: Know Your Client Dashboard, Data-Science Institute, Columbia University
 
@@ -67,7 +67,9 @@ Capstone Mentoring
 
 Journal & Conference Publications
 ======
-* **Naftali Cohen**, Simran Lamba, and Prashant Reddy, 2020: What can be learned from satisfaction assessments? - accepted to ICAIF-2020
+* **Naftali Cohen**, Srijan Sood, Zhen Zeng, Tucker Balch, and Manuela Veloso, 2020: [Visual Forecasting of Time Series with Image-to-Image Regression](https://arxiv.org/abs/2011.09052)
+
+* **Naftali Cohen**, Simran Lamba, and Prashant Reddy, 2020: [What can be learned from satisfaction assessments?](https://arxiv.org/abs/2010.13340) - accepted to ICAIF-2020
 
 * **Naftali Cohen**, Tucker Balch, and Manuela Veloso, 2019: [Trading via Image Classification](https://arxiv.org/abs/1907.10046), arXiv:1907.10046 - accepted to ICAIF-2020
 
@@ -147,7 +149,7 @@ Keynote, Invited, and Conference presentations
 
 * ACM International Conference on AI in Finance, **New York, NY**, USA October 2020: Trading via Image Classification
 
-* OAISS NY, **New York, NY**, USA May 2019: Countdown to 2020 - The tipping point for convergence of digital, automation and AI
+* OAISS NY, **New York, NY**, USA May 2019: Countdown to 2020 - The tipping point for convergence of digital, Automation and AI
 
 * DeepWave workshop, **Yale, New Haven, CT**, USA, August 2017: The impact of gravity waves on the large-scale circulation
 
