@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 
-I am a research lead and Vice President at [`AI Research`](https://www.jpmorgan.com/global/technology/artificial-intelligence "AI Research"), [`JP Morgan`](https://www.jpmorgan.com/ "JP Morgan"). I have over 10 years of R&D work experience in numerical modeling, predictive analytics, machine learning, and AI in both academic and industrial settings.
+I am a Research Lead and Vice President at [`AI Research`](https://www.jpmorgan.com/global/technology/artificial-intelligence "AI Research"), [`JP Morgan`](https://www.jpmorgan.com/ "JP Morgan"). I have over 10 years of R&D work experience in numerical modeling, predictive analytics, machine learning, and AI in both academic and industrial settings.
 Before joining JP Morgan, I worked as a research scientist at the Mathematics and Physics departments of [`Yale University`](https://www.yale.edu/ "Yale University") and [`Columbia University`](https://www.columbia.edu/ "Columbia University").
 I hold a Ph.D. in Applied Mathematics from the [`Courant Institute`](https://www.cims.nyu.edu/ "Courant Institute"), [`New York University`](https://www.nyu.edu/ "New York University") and a BSc and an MSc in Physics from the [`Hebrew University`](https://new.huji.ac.il/ "Hebrew University"). My academic research focused on numerical simulations of geophysical fluid dynamics systems. 
 
