@@ -6,8 +6,11 @@ author_profile: true
 ---
 
 R&D leader with substantial experience and a proven track record in AI/ML research, data science, product management, and leadership roles in dynamic and fast-paced environments.
+
 Extensive financial experience working in multiple LoBs within JPM, including Corporate & Investment Banking, Asset & Wealth Management, and Intelligent Solutions.
+
 Adjunct Professor at the Tandon School of Engineering with a significant academic background and extensive publication and patent record. Previous positions held at New York University, Yale University, and Columbia University.
+
 Ph.D. in Applied Mathematics from the Courant Institute - New York University, MSc and BSc from the Hebrew University of Jerusalem.
 
 Education
