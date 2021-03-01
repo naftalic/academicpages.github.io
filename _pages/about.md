@@ -5,28 +5,30 @@ author_profile: true
 
 ---
 
-I am a Research Lead and Vice President at [`AI Research`](https://www.jpmorgan.com/global/technology/artificial-intelligence "AI Research"), [`JP Morgan`](https://www.jpmorgan.com/ "JP Morgan"). I have over 10 years of R&D work experience in numerical modeling, predictive analytics, machine learning, and AI in both academic and industrial settings.
-Before joining JP Morgan, I worked as a research scientist at the Mathematics and Physics departments of [`Yale University`](https://www.yale.edu/ "Yale University") and [`Columbia University`](https://www.columbia.edu/ "Columbia University").
-I hold a Ph.D. in Applied Mathematics from the [`Courant Institute`](https://www.cims.nyu.edu/ "Courant Institute"), [`New York University`](https://www.nyu.edu/ "New York University") and a BSc and an MSc in Physics from the [`Hebrew University`](https://new.huji.ac.il/ "Hebrew University"). My academic research focused on numerical simulations of geophysical fluid dynamics systems. 
+R&D leader with substantial experience and a proven track record in AI/ML research, data science, product management, and leadership roles in dynamic and fast-paced environments.
+Extensive financial experience working in multiple LoBs within JPM, including Corporate & Investment Banking, Asset & Wealth Management, and Intelligent Solutions.
+Adjunct Professor at the Tandon School of Engineering with a significant academic background and extensive publication and patent record. Previous positions held at New York University, Yale University, and Columbia University.
+Ph.D. in Applied Mathematics from the Courant Institute - New York University, MSc and BSc from the Hebrew University of Jerusalem.
 
 Education
 ======
-* **Ph.D.** in Applied Mathematics, [`Courant Institute of Mathematical Sciences`](https://www.cims.nyu.edu/ "Courant Institute of Mathematical Sciences"), New York University, New York NY, 2014
+* **Ph.D.** in Applied Mathematics, [`Courant Institute of Mathematical Sciences`](https://www.cims.nyu.edu/ "Courant Institute of Mathematical Sciences"), New York University, New York NY, 2013
 * **M.Sc.** in Atmospheric Sciences, [`The Hebrew University`](http://new.huji.ac.il/ "The Hebrew University"), Jerusalem, Israel, 2008
 * **B.Sc.** in Atmospheric Sciences and Chemistry, [`The Hebrew University`](http://new.huji.ac.il/ "The Hebrew University"), Jerusalem, Israel, 2006
 
 Work experience
 ======
 
-* 2018 - present : **Research Lead - AI Research**
+* 2018 - present : **Vice President and Research Lead - AI Research**
   * _JPMorgan Chase & Co._, New York NY 
-  
-  *  Develop deep-learning and machine-learning solutions for the financial services
-  *  Mine data (10+ TB) for economic forecasts and financial investments 
-  *  Develop models to evaluate and predict customer experience
-  *  Mentor at the Data Science Institute - Columbia University
-  *  Lead external collaborations with academic researchers
+  *  Lead a team of talented, driven, and collaborative researchers to conduct end-to-end research in AI/ ML with applications to the financial markets
+  *  Work on high-impact business applications in collaboration with internal and external professionals and with applied engineering teams
+  *  Work with senior leaders to define, build, and transform the business using AI
 
+* 2020 - present : **Adjunct Professor**
+  * _New York University, Tandon School_, Brooklyn, NY
+  *  Teach advanced data-driven analytical methods for decision-making in business. Topics include integer programming, network flow models, project management, multicriteria decision-making, queuing analysis, and inventory management
+  
 * 2016 - 2017: **Research Scientist**
   * _Columbia University in the City of New York_, New York NY
   * Analyze chaotic and high-dimensional climatological data (10+ TB) for identification of climate-change patterns using unsupervised learning techniques including dimensional reduction, filtering, and nonparametric statistics
@@ -52,7 +54,7 @@ techniques
 * 2005 - 2008: **Head Of Chemistry and Meteorology**
   * _The Hebrew University_, Israel
   * Chemistry and Meteorology instructor for 3rd- to 12th-grade students
-  
+
 Capstone Mentoring
 ======
 * Kevin Womack, Benjamin Livingston, Shreyas Jadhav, Mariem Ayadi, and Amogh Mishra, 2020: Reinforcement Learning for Trading, Data-Science Institute, Columbia University
@@ -69,9 +71,9 @@ Journal & Conference Publications
 ======
 * **Naftali Cohen**, Srijan Sood, Zhen Zeng, Tucker Balch, and Manuela Veloso, 2020: [Visual Forecasting of Time Series with Image-to-Image Regression](https://arxiv.org/abs/2011.09052)
 
-* **Naftali Cohen**, Simran Lamba, and Prashant Reddy, 2020: [What can be learned from satisfaction assessments?](https://arxiv.org/abs/2010.13340) - accepted to ICAIF-2020
+* **Naftali Cohen**, Simran Lamba, and Prashant Reddy, 2020: [What can be learned from satisfaction assessments?](https://arxiv.org/abs/2010.13340) - ICAIF-2020
 
-* **Naftali Cohen**, Tucker Balch, and Manuela Veloso, 2019: [Trading via Image Classification](https://arxiv.org/abs/1907.10046), arXiv:1907.10046 - accepted to ICAIF-2020
+* **Naftali Cohen**, Tucker Balch, and Manuela Veloso, 2019: [Trading via Image Classification](https://arxiv.org/abs/1907.10046), arXiv:1907.10046 - ICAIF-2020
 
 * **Naftali Cohen**, Tucker Balch, and Manuela Veloso, 2019: [The effect of visual design in image classification](https://arxiv.org/abs/1907.09567), arXiv:1907.09567 
 
@@ -141,7 +143,7 @@ Awards and Honors
 
 Publication citations
 ======
-* ~300 (based on Google Scholar metric, 2020)
+* ~400 (based on Google Scholar metric, 2021)
 
 Keynote, Invited, and Conference presentations
 ====== 
