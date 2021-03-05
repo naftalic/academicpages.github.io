@@ -22,8 +22,8 @@ Education
 Work experience
 ======
 
-* 2018 - present : **Vice President and Research Lead - AI Research**
-  * _JPMorgan Chase & Co._, New York NY 
+* 2018 - present : **Vice President and Research Lead**
+  * _JP Morgan Chase & Co._, AI Research, New York, NY 
   *  Lead a team of researchers and engineers to conduct end-to-end research in AI/ ML with applications to the financial markets
   *  Develop modeling solutions and recommendation systems for financial investment
   *  Mine unstructured alternative data for financial forecasting
@@ -35,21 +35,21 @@ Work experience
   *  Teach Operation Research, focusing on data-driven analytical methods for decision-making in business
   
 * 2016 - 2017: **Research Scientist**
-  * _Columbia University in the City of New York_, New York NY
+  * _Columbia University in the City of New York_, New York, NY
   * Analyze chaotic and high-dimensional climatological data (10+ TB) for identification of climate-change patterns using unsupervised learning techniques including dimensional reduction, filtering, and nonparametric statistics
 
 * 2014 - 2015: **Research Scientist**
-  * _Yale University_, New Haven CT
+  * _Yale University_, New Haven, CT
   * Classifying monsoon storms in unstructured observational data (1+ TB); developing storm-tracking algorithms for the storm’s development, risk evaluation, and prediction 
   * Develop nonlinear regression algorithms for identifying and predicting trends in incomplete data using statistical inference, model selection, and bias correction methods
 
 * 2009 - 2013: **Graduate Research**
-  * _New York University_, New York NY
+  * _New York University_, New York, NY
   * Design and develop algorithms to structure the chaotic climate system (1+ TB data) using pattern recognition, dimensional reduction, signal detection, and bootstrap
 techniques
   
 * 2009 - 2013: **Teaching Assistant**
-  * _New York University_, New York NY
+  * _New York University_, New York, NY
   * Instructor for the following courses: Mathematical Analysis, Mathematical Methods, Ordinary Differential Equations, Calculus
 
 * 2006 - 2008: **Teaching Assistant**
