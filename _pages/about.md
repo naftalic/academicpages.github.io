@@ -60,15 +60,19 @@ techniques
 
 Capstone Mentoring
 ======
-* Kevin Womack, Benjamin Livingston, Shreyas Jadhav, Mariem Ayadi, and Amogh Mishra, 2020: Reinforcement Learning for Trading, Data-Science Institute, Columbia University
+* Jingwen Du, David Schemitsch, David Woo, 2021: M5 Forecasting Competition Research, Columbia University, Data-Science Institute
 
-* Romane S Goldmuntz, Hritik Jain, Kassiani Papasotiriou, Amaury Sudrie, Maxime Tchibozo, and Vy Tran, 2020: Identifying Trading Opportunities through Unsupervised Learning, Data-Science Institute, Columbia University
+* Hariz Johnson, Yu Liu, Mamunur Rashid, Asaf Gal, 2021: Reinforcement Learning in Trading, Columbia University, Data-Science Institute
 
-* Jesse Cahill, Thomas Causero, James DeAntonis, Ryan McNally, 2020: Know Your Client Dashboard, Data-Science Institute, Columbia University
+* Kevin Womack, Benjamin Livingston, Shreyas Jadhav, Mariem Ayadi, and Amogh Mishra, 2020: Reinforcement Learning for Trading, Columbia University, Data-Science Institute
 
-* Minghao Chen, Fan Feng, Lehui Liu, Shaofei Wang, Zhida Zhang, 2019: Eye Gaze Prediction Using Webcam, Data-Science Institute, Columbia University
+* Romane Goldmuntz, Hritik Jain, Kassiani Papasotiriou, Amaury Sudrie, Maxime Tchibozo, and Vy Tran, 2020: Identifying Trading Opportunities through Unsupervised Learning, Columbia University, Data-Science Institute
 
-* Xiaoyu Chen, Lizhou He, Siyu Tao, Litchi Yang, Jinhao Zhang 2019: Utilizing Eye Gaze Data: Sudoku Game Decision Modelling of Experts/Novices, Data-Science Institute, Columbia University
+* Jesse Cahill, Thomas Causero, James DeAntonis, Ryan McNally, 2020: Know Your Client Dashboard, Columbia University, Data-Science Institute
+
+* Minghao Chen, Fan Feng, Lehui Liu, Shaofei Wang, Zhida Zhang, 2019: Eye Gaze Prediction Using Webcam, Columbia University, Data-Science Institute
+
+* Xiaoyu Chen, Lizhou He, Siyu Tao, Litchi Yang, Jinhao Zhang 2019: Utilizing Eye Gaze Data: Sudoku Game Decision Modelling of Experts/Novices, Columbia University, Data-Science Institute
 
 Journal & Conference Publications
 ======
