@@ -24,13 +24,15 @@ Work experience
 
 * 2018 - present : **Vice President and Research Lead - AI Research**
   * _JPMorgan Chase & Co._, New York NY 
-  *  Lead a team of talented, driven, and collaborative researchers to conduct end-to-end research in AI/ ML with applications to the financial markets
-  *  Work on high-impact business applications in collaboration with internal and external professionals and with applied engineering teams
-  *  Work with senior leaders to define, build, and transform the business using AI
+  *  Lead a team of researchers and engineers to conduct end-to-end research in AI/ ML with applications to the financial markets
+  *  Develop modeling solutions and recommendation systems for financial investment
+  *  Mine unstructured alternative data for financial forecasting
+  *  Feature Engineering proprietary data for financial investment
+  *  Lead strategic collaborations with universities and external professionals 
 
 * 2020 - present : **Adjunct Professor**
   * _New York University, Tandon School_, Brooklyn, NY
-  *  Teach advanced data-driven analytical methods for decision-making in business. Topics include integer programming, network flow models, project management, multicriteria decision-making, queuing analysis, and inventory management
+  *  Teach Operation Research, focusing on data-driven analytical methods for decision-making in business
   
 * 2016 - 2017: **Research Scientist**
   * _Columbia University in the City of New York_, New York NY
